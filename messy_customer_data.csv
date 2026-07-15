@@ -1,0 +1,1041 @@
+CustomerID,Name,Age,Gender,Country,SignupDate,OrderDate,PurchaseAmount,Quantity
+CUST1009,Elizabeth Davis,150.0,male,canada,25/02/2021,16/11/2022,$699.22,4.0
+CUST1285,Jessica Anderson,,,UK,26/01/2019,2024-03-22,$527.47,2.0
+CUST1674,Sarah Rodriguez,34.0,female,India,06-10-2018,"November 28, 2024",$551.77,1.0
+CUST1099,Thomas Jackson,27.0,Female,United Kingdom,12/10/2018,2024-07-06,$294.88,9.0
+CUST1667,Elizabeth Jackson,27.0,FEMALE,usa,"April 01, 2018","May 01, 2022",$367.59,9.0
+CUST1643,Joseph Wilson,53.0,M,india,"July 10, 2021",2024-05-23,$646.69,1.0
+CUST1171,Jessica Moore,54.0,male,UK,2022-06-18,18/08/2024,$90.91,4.0
+CUST1632,Jessica Brown,28.0,Female,U.S.A,05-19-2018,03/02/2023,$373.99,5.0
+CUST1572,Jessica Martinez,42.0,Male,,27/03/2020,2024-04-23,$623.07,7.0
+CUST1306,Thomas Martin,61.0,Female,UK,14/05/2022,03-05-2022,$369.72,10.0
+CUST1910,Linda Jackson,40.0,male,INDIA,27/09/2020,2023-04-05,$597.96,9.0
+CUST1472,Michael Smith,59.0,M,Canada,27/07/2019,"May 25, 2022",$343.28,3.0
+CUST1451,James Gonzalez,37.0,female,INDIA,06/02/2018,25/12/2024,$551.75,6.0
+CUST1094,Sarah Davis,69.0,FEMALE,United States,"November 19, 2020","May 25, 2023",$340.74,4.0
+CUST1890,Mary Anderson,18.0,male,U.S.A,05/05/2019,2024-02-23,$680.41,4.0
+CUST1408,Charles Taylor,46.0,FEMALE,UK,03-26-2022,"May 08, 2022",$237.64,3.0
+CUST1484,Thomas Martin,62.0,F,India,"September 20, 2019","June 26, 2024",$705.97,9.0
+CUST1577,Joseph Gonzalez,59.0,FEMALE,uk,2018-02-04,21/08/2022,,10.0
+CUST1768,Susan Martin,22.0,female,India,08/01/2022,06-12-2022,$11.26,7.0
+CUST1679,Barbara Martinez,50.0,,U.S.A,09/12/2018,2024-04-14,$35.39,4.0
+CUST1452,Joseph Thomas,26.0,Female,U.S.A,06-26-2022,02-14-2022,$702.35,10.0
+CUST1518,Jessica Anderson,39.0,female,INDIA,11/07/2020,2022-08-26,$736.76,4.0
+CUST1625,Elizabeth Davis,28.0,Female,usa,05/07/2022,02/10/2023,$659.78,10.0
+CUST1635,John Davis,47.0,male,uk,"August 21, 2021",2022-02-06,$738.77,4.0
+CUST1478,David Wilson,32.0,male,india,08-09-2019,01-25-2023,$684.19,10.0
+CUST1473,Joseph Thomas,73.0,FEMALE,INDIA,"April 10, 2019",2022-06-01,$573.34,8.0
+CUST1319,Linda Moore,30.0,,Canada,21/10/2019,"December 18, 2024",$615.36,8.0
+CUST1204,Jessica Smith,57.0,MALE,,23/06/2019,01/01/2023,$734.61,9.0
+CUST1284,Susan Williams,200.0,female,usa,"January 24, 2022",10-21-2023,$482.00,3.0
+CUST1172,Elizabeth Johnson,40.0,male,India,04-07-2018,"October 21, 2024",$120.00,4.0
+CUST1153,Karen Martin,43.0,female,USA,16/08/2020,"September 13, 2023",$472.84,10.0
+CUST1808,Mary Gonzalez,63.0,FEMALE,United States,"October 19, 2020",02-02-2022,$301.86,2.0
+CUST1614,John Miller,66.0,FEMALE,U.S.A,16/06/2020,01-18-2022,$107.23,2.0
+CUST1742,Robert Johnson,54.0,F,USA,"December 07, 2020",11/08/2024,$570.01,2.0
+CUST1360,Charles Anderson,37.0,female,United States,"February 25, 2022","March 03, 2024",$255.21,8.0
+CUST1504,David Smith,26.0,Male,INDIA,01/01/2021,"September 23, 2023",$435.12,2.0
+CUST1658,William Martin,69.0,male,INDIA,"November 25, 2021",07/06/2023,-50.00,1.0
+CUST1693,Karen Smith,38.0,male,canada,05/07/2021,"May 16, 2022",$188.14,7.0
+CUST1186,Mary Davis,45.0,male,India,10-02-2022,22/12/2024,$569.24,3.0
+CUST1446,Linda Wilson,24.0,M,United States,08-14-2020,01-16-2024,$99.24,8.0
+CUST1682,Barbara Anderson,47.0,F,United Kingdom,2021-01-18,25/02/2023,$248.89,9.0
+CUST1591,Barbara Davis,60.0,,Canada,"January 20, 2022",25/11/2022,$299.97,6.0
+CUST1013,Joseph Jones,35.0,FEMALE,United States,2018-08-26,2022-11-18,$741.83,3.0
+CUST1671,Jennifer Miller,36.0,Female,canada,"February 06, 2018",28/05/2024,$548.34,6.0
+CUST1409,Barbara Martinez,28.0,M,canada,06/05/2022,22/12/2024,$102.36,10.0
+CUST1054,Michael Rodriguez,36.0,FEMALE,canada,01/02/2021,2024-03-10,$83.64,2.0
+CUST1702,Charles Johnson,18.0,MALE,USA,"January 05, 2018",05-02-2022,$527.62,5.0
+CUST1426,Sarah Smith,24.0,MALE,india,23/06/2021,04/11/2023,$785.23,9.0
+CUST1937,Jessica Taylor,22.0,M,United States,12/11/2021,"July 02, 2023",-50.00,7.0
+CUST1952,Richard Martin,19.0,MALE,Canada,2018-08-23,10-12-2023,$397.86,7.0
+CUST1609,John Moore,26.0,F,INDIA,2020-06-02,04-24-2023,$777.57,10.0
+CUST1783,Karen Brown,31.0,MALE,usa,06/05/2022,"July 18, 2024",$182.02,5.0
+CUST1653,Barbara Brown,19.0,female,U.S.A,24/02/2019,16/05/2023,$285.36,5.0
+CUST1903,Elizabeth Davis,45.0,Male,UK,04-05-2020,"January 21, 2022",$377.30,3.0
+CUST1098,Thomas Wilson,36.0,MALE,UK,"January 08, 2018",2024-10-15,$725.07,1.0
+CUST1770,Mary Rodriguez,44.0,M,U.S.A,2021-11-17,2023-02-12,$329.53,3.0
+CUST1929,Mary Hernandez,67.0,FEMALE,United States,2022-07-04,2024-03-19,$361.10,8.0
+CUST1754,William Johnson,70.0,Male,canada,"October 21, 2021",2023-03-16,-50.00,
+CUST1046,Joseph Hernandez,21.0,Female,India,"February 13, 2018",2022-10-21,$650.80,2.0
+CUST1510,Thomas Johnson,32.0,Male,UK,09-15-2021,07-07-2022,$461.74,
+CUST1822,Thomas Jones,69.0,M,uk,"March 01, 2018",05-13-2022,$219.49,1.0
+CUST1720,James Garcia,34.0,,canada,04/12/2021,01/07/2022,$114.58,7.0
+CUST1325,Linda Martin,58.0,F,USA,09-02-2020,10-05-2024,$184.43,999.0
+CUST1978,Joseph Jones,22.0,Female,,11/12/2020,"August 14, 2024",$519.01,9.0
+CUST1865,William Miller,49.0,Female,INDIA,"November 23, 2018","December 25, 2022",$554.70,2.0
+CUST1256,James Hernandez,27.0,Male,U.S.A,10-02-2020,10-18-2023,$569.07,3.0
+CUST1403,Michael Williams,39.0,Male,india,"January 04, 2020",2023-08-20,$148.46,2.0
+CUST1737,Mary Rodriguez,70.0,F,Canada,03-27-2021,"February 03, 2022",,9.0
+CUST1420,Karen Garcia,73.0,female,Canada,05-22-2020,09-19-2022,$20.19,6.0
+CUST1836,William Johnson,75.0,Female,usa,19/07/2021,"December 28, 2024",$187.46,10.0
+CUST1778,Susan Rodriguez,67.0,M,UK,"November 02, 2022",11-10-2022,,7.0
+CUST1893,David Jackson,41.0,male,INDIA,12-27-2020,"June 24, 2023",$247.20,9.0
+CUST1270,Robert Anderson,23.0,F,uk,22/01/2022,06/11/2024,$151.52,3.0
+CUST1681,Robert Wilson,37.0,Female,usa,"October 21, 2020","March 13, 2024",$425.99,9.0
+CUST1578,Jessica Rodriguez,24.0,M,United Kingdom,"November 23, 2021",2023-10-05,$573.88,9.0
+CUST1455,Richard Jones,31.0,MALE,UK,"July 06, 2019",01-10-2022,$366.27,10.0
+CUST1024,Barbara Taylor,71.0,,uk,09/02/2018,2024-05-02,$283.09,7.0
+CUST1623,Linda Williams,,F,U.S.A,24/08/2019,09-23-2024,$580.82,1.0
+CUST1752,Jennifer Smith,72.0,FEMALE,,14/12/2020,"September 07, 2024",$747.22,4.0
+CUST1580,Jennifer Martin,18.0,,India,02/02/2020,21/04/2024,$212.84,2.0
+CUST1910,Linda Jackson,40.0,male,INDIA,27/09/2020,2023-04-05,$597.96,9.0
+CUST1472,Michael Smith,59.0,M,Canada,27/07/2019,"May 25, 2022",$343.28,3.0
+CUST1222,Charles Moore,28.0,Female,canada,"May 01, 2018",28/03/2022,$521.43,5.0
+CUST1025,Karen Taylor,75.0,MALE,UK,2018-12-14,22/09/2024,$65.28,6.0
+CUST1842,David Gonzalez,67.0,M,India,12/06/2018,2023-05-04,$257.21,3.0
+CUST1596,Patricia Miller,26.0,F,United Kingdom,06/01/2020,2023-11-09,$444.60,3.0
+CUST1060,John Wilson,66.0,male,India,2019-12-10,2022-06-26,$306.12,9.0
+CUST1146,Joseph Garcia,40.0,M,U.S.A,2022-08-06,2024-01-27,$537.89,7.0
+CUST1108,Joseph Williams,72.0,female,Canada,12-03-2020,23/03/2023,$411.92,4.0
+CUST1515,Thomas Hernandez,24.0,male,USA,03/12/2022,03-21-2024,$390.31,3.0
+CUST1358,Patricia Rodriguez,35.0,male,USA,2022-09-17,09-12-2022,$755.19,10.0
+CUST1075,David Gonzalez,51.0,Female,India,2022-10-14,28/02/2024,$711.59,8.0
+CUST1253,Patricia Martin,65.0,,United States,07-08-2022,"November 02, 2024",$765.79,6.0
+CUST1961,Michael Wilson,66.0,M,India,12-05-2022,2023-04-05,$723.89,7.0
+CUST1933,Sarah Brown,20.0,Female,United Kingdom,2022-12-14,02-09-2022,$410.62,3.0
+CUST1970,William Brown,53.0,MALE,,15/04/2019,12-18-2022,$325.88,5.0
+CUST1991,David Gonzalez,45.0,male,,07/07/2022,"October 21, 2022",$600.71,4.0
+CUST1125,Elizabeth Brown,52.0,F,United Kingdom,2020-03-10,12-03-2023,$528.22,4.0
+CUST1179,Charles Davis,46.0,Male,USA,"February 28, 2020",2024-03-16,$80.57,2.0
+CUST1344,Susan Martinez,67.0,FEMALE,UK,05/02/2019,10-25-2022,,8.0
+CUST1104,Sarah Martinez,23.0,female,Canada,"May 15, 2020",12-15-2022,$584.18,10.0
+CUST1544,Patricia Davis,40.0,female,U.S.A,07-21-2018,"July 07, 2022",$529.79,10.0
+CUST1196,Karen Johnson,72.0,female,U.S.A,12-08-2018,09-02-2023,$792.63,
+CUST1758,Charles Anderson,23.0,M,canada,2018-03-11,01-07-2022,$702.99,5.0
+CUST1553,Joseph Martinez,56.0,FEMALE,usa,"March 23, 2020",2022-03-07,,6.0
+CUST1397,Joseph Garcia,26.0,FEMALE,canada,11-12-2019,2022-06-05,$57.12,8.0
+CUST1216,Karen Rodriguez,64.0,male,usa,09-13-2021,2023-09-15,$502.22,7.0
+CUST1568,John Hernandez,54.0,male,Canada,"July 23, 2020","November 26, 2024",$186.61,2.0
+CUST1725,Karen Brown,60.0,Female,U.S.A,18/04/2018,02/10/2022,,1.0
+CUST1721,Susan Lopez,62.0,,United States,02-11-2020,2024-10-20,$45.74,6.0
+CUST1097,Robert Jones,,FEMALE,canada,"December 16, 2019",2024-01-03,$669.62,10.0
+CUST1499,Karen Jackson,50.0,,United Kingdom,05-02-2018,2023-09-14,$331.92,1.0
+CUST1411,Jessica Jones,38.0,M,USA,09-11-2022,25/05/2023,$585.55,6.0
+CUST1377,Elizabeth Anderson,38.0,,Canada,02-18-2018,10-21-2023,$221.00,10.0
+CUST1437,Patricia Hernandez,52.0,female,USA,"November 28, 2021",09-14-2024,,1.0
+CUST1941,William Rodriguez,73.0,Female,INDIA,04-11-2022,10-07-2022,$161.56,7.0
+CUST1017,William Gonzalez,59.0,Female,India,"February 01, 2020",2024-10-04,$409.65,6.0
+CUST1419,Joseph Jones,21.0,Female,uk,2021-11-12,2023-05-17,$615.49,2.0
+CUST1026,Karen Hernandez,25.0,Female,india,11-14-2020,10/12/2023,$535.29,3.0
+CUST1722,Joseph Wilson,65.0,F,UK,05/12/2021,2024-10-27,$16.15,8.0
+CUST1812,James Jackson,20.0,,,09-16-2020,2024-06-21,$456.59,2.0
+CUST1372,Mary Hernandez,18.0,FEMALE,India,08-19-2022,06-26-2023,$37.91,5.0
+CUST1773,Charles Rodriguez,70.0,FEMALE,United Kingdom,2018-08-10,08-15-2022,"$7,397.31",7.0
+CUST1399,Charles Thomas,35.0,Male,canada,28/12/2021,14/06/2022,$477.50,10.0
+CUST1034,Karen Davis,35.0,F,India,"July 11, 2018","March 27, 2024",$784.77,7.0
+CUST1053,William Hernandez,67.0,F,india,"November 28, 2018",01-07-2023,$403.81,1.0
+CUST1963,John Martin,70.0,,india,"January 28, 2021",11/06/2022,$410.31,
+CUST1113,Michael Jackson,58.0,Male,India,05-21-2022,"April 26, 2023",$67.65,999.0
+CUST1562,Karen Taylor,66.0,Female,India,"June 20, 2021",06-22-2023,$655.31,7.0
+CUST1140,Jennifer Wilson,21.0,female,Canada,"September 11, 2021","March 10, 2023",$434.96,4.0
+CUST1888,David Martin,55.0,FEMALE,Canada,2020-11-04,05/12/2022,$741.98,2.0
+CUST1962,Joseph Anderson,31.0,FEMALE,U.S.A,08/01/2021,02-10-2024,"$6,860.36",7.0
+CUST1489,Barbara Taylor,53.0,,,"May 19, 2021","July 15, 2024",$339.37,9.0
+CUST1748,John Jackson,64.0,MALE,UK,2019-05-19,"September 19, 2022",$619.86,5.0
+CUST1686,Thomas Anderson,25.0,Female,United Kingdom,27/03/2021,"May 27, 2024",$497.56,1.0
+CUST1655,Joseph Wilson,35.0,female,INDIA,"October 13, 2018",10-12-2022,$657.28,1.0
+CUST1389,Jessica Martin,32.0,male,,"July 11, 2019",22/02/2023,$772.11,1.0
+CUST1494,Susan Gonzalez,43.0,female,india,11-15-2018,28/02/2024,$461.88,5.0
+CUST1706,Elizabeth Williams,0.0,FEMALE,USA,2021-07-15,13/04/2022,$430.67,1.0
+CUST1395,Mary Brown,52.0,M,U.S.A,2018-08-17,"April 24, 2022",$267.52,6.0
+CUST1953,John Wilson,32.0,Female,uk,06/08/2020,21/10/2022,$783.54,4.0
+CUST1220,Jessica Taylor,70.0,Male,india,"February 10, 2019",2022-09-19,$701.39,1.0
+CUST1259,Elizabeth Smith,70.0,female,india,2022-08-16,11-07-2023,$759.09,9.0
+CUST1626,John Anderson,59.0,F,United Kingdom,01-26-2019,07-07-2024,$71.47,6.0
+CUST1074,Joseph Smith,0.0,F,United Kingdom,"August 23, 2018",11/02/2022,"$6,100.06",9.0
+CUST1164,Jessica Brown,62.0,FEMALE,uk,2018-05-02,2022-06-21,$139.84,4.0
+CUST1920,Sarah Moore,65.0,female,United Kingdom,10-13-2019,06-25-2023,$541.40,9.0
+CUST1168,Patricia Davis,29.0,female,canada,"September 13, 2019","March 19, 2024",$394.47,3.0
+CUST1756,David Hernandez,28.0,female,india,"November 13, 2018",2024-11-02,$611.42,5.0
+CUST1379,Susan Brown,61.0,FEMALE,uk,12-10-2019,2022-01-01,"$7,376.55",4.0
+CUST1595,Barbara Martinez,75.0,M,india,"February 15, 2020","March 12, 2022",,4.0
+CUST1463,Robert Smith,71.0,FEMALE,India,2020-10-22,"January 21, 2023",$587.92,10.0
+CUST1958,Charles Rodriguez,47.0,M,canada,08/12/2018,2024-10-25,"$6,509.7",
+CUST1989,Jennifer Brown,39.0,male,india,2022-08-17,11-20-2023,$291.44,3.0
+CUST1487,Elizabeth Jackson,47.0,female,United States,23/10/2022,10/05/2023,$420.54,6.0
+CUST1339,Jessica Hernandez,74.0,MALE,United Kingdom,"January 20, 2021",2024-06-13,$366.77,1.0
+CUST1324,David Thomas,70.0,male,INDIA,"January 24, 2020",01-25-2022,$655.54,2.0
+CUST1347,Karen Jackson,29.0,FEMALE,canada,2022-06-02,"June 12, 2023",$609.17,2.0
+CUST1232,Michael Smith,58.0,MALE,United States,2020-05-05,09-19-2023,$660.84,5.0
+CUST1170,Susan Thomas,71.0,FEMALE,India,2019-02-19,05-02-2022,$238.05,10.0
+CUST1110,Susan Jackson,38.0,male,India,11-17-2021,21/09/2022,$111.94,1.0
+CUST1993,David Wilson,18.0,female,India,2018-03-27,2024-09-18,$384.01,9.0
+CUST1534,Jennifer Hernandez,44.0,F,U.S.A,"March 18, 2018","December 03, 2023",$693.90,4.0
+CUST1057,Sarah Moore,38.0,MALE,canada,13/10/2019,"January 11, 2023",$651.01,3.0
+CUST1336,David Wilson,37.0,FEMALE,canada,25/03/2020,2022-03-06,$493.47,10.0
+CUST1006,Charles Gonzalez,26.0,,India,2018-01-28,"November 06, 2022",$313.97,8.0
+CUST1627,James Davis,52.0,male,usa,10-01-2019,2022-09-07,$77.18,1.0
+CUST1138,Mary Wilson,74.0,Male,United States,2019-02-04,2023-10-22,$44.95,9.0
+CUST1163,Thomas Jones,19.0,FEMALE,usa,2020-07-03,03-12-2024,$629.57,6.0
+CUST1828,Richard Anderson,47.0,Female,india,02-24-2021,09-11-2024,$157.19,8.0
+CUST1318,Barbara Moore,74.0,F,uk,2018-10-09,02-27-2024,$180.56,2.0
+CUST1830,Sarah Martinez,40.0,Female,India,03/09/2021,07/09/2023,$185.27,
+CUST1043,Linda Martinez,41.0,FEMALE,india,06-14-2022,12-15-2023,$192.13,6.0
+CUST1556,Robert Rodriguez,61.0,M,UK,19/10/2019,2022-02-25,$734.34,10.0
+CUST1063,Jessica Brown,54.0,female,INDIA,2020-12-10,2024-07-09,$551.78,1.0
+CUST1586,Richard Brown,25.0,M,india,"October 27, 2020",09-12-2022,$489.90,3.0
+CUST1901,William Williams,67.0,MALE,,12-05-2020,08/08/2022,$268.50,8.0
+CUST1038,James Martinez,42.0,F,canada,19/02/2019,12-25-2022,$484.33,10.0
+CUST1328,Susan Lopez,38.0,female,INDIA,05-06-2018,20/08/2024,$740.13,6.0
+CUST1459,Barbara Wilson,74.0,Female,INDIA,"September 11, 2020","June 24, 2022",$129.50,8.0
+CUST1297,Joseph Hernandez,41.0,,india,"June 01, 2020",28/06/2022,$523.39,5.0
+CUST1975,James Miller,75.0,F,India,05-19-2018,09-03-2024,$375.25,3.0
+CUST1528,David Rodriguez,70.0,Female,United States,03-28-2022,05-10-2022,$329.01,10.0
+CUST1514,Karen Wilson,56.0,Male,India,"August 26, 2021",10-04-2024,$543.86,
+CUST1921,Susan Lopez,23.0,Female,U.S.A,"June 21, 2020",28/09/2023,$281.33,3.0
+CUST1804,Jennifer Miller,68.0,M,U.S.A,11-06-2022,"August 21, 2024",$222.81,8.0
+CUST1205,Barbara Williams,60.0,F,INDIA,06-10-2018,"March 24, 2022",$768.92,3.0
+CUST1771,David Jones,42.0,FEMALE,USA,"November 22, 2021","January 10, 2023",$510.95,8.0
+CUST1853,Susan Gonzalez,26.0,female,U.S.A,12/05/2018,"July 09, 2024",$215.80,6.0
+CUST1142,John Moore,30.0,Male,UK,2021-11-20,26/04/2022,$696.88,1.0
+CUST1723,Richard Hernandez,50.0,Female,,"April 10, 2018","January 19, 2023",$313.41,3.0
+CUST1375,Mary Hernandez,27.0,M,India,"July 08, 2021",06/11/2024,$675.05,999.0
+CUST1305,Linda Smith,30.0,F,india,08/07/2021,"December 21, 2024",$184.27,4.0
+CUST1185,Karen Jones,37.0,male,india,03-18-2019,2023-10-21,$355.61,4.0
+CUST1244,Linda Williams,69.0,FEMALE,usa,2021-08-11,2023-12-21,$335.75,1.0
+CUST1600,Michael Jones,57.0,MALE,usa,07-14-2018,08/11/2024,$388.56,1.0
+CUST1673,Linda Thomas,70.0,Male,INDIA,17/04/2020,02-04-2022,$275.19,6.0
+CUST1526,Joseph Taylor,55.0,Male,India,"October 11, 2022","August 14, 2023",$403.06,1.0
+CUST1984,Jessica Wilson,74.0,MALE,uk,04-15-2022,2023-11-28,$538.06,7.0
+CUST1228,David Williams,32.0,Female,United Kingdom,06-09-2020,2023-02-16,$471.02,2.0
+CUST1849,Joseph Rodriguez,21.0,FEMALE,INDIA,"August 19, 2021","March 01, 2022",$55.46,3.0
+CUST1361,Jessica Davis,27.0,Female,uk,03-23-2021,2023-08-16,"$5,451.55",3.0
+CUST1061,Susan Jackson,29.0,M,U.S.A,"October 28, 2018","November 08, 2024",$123.06,5.0
+CUST1620,Richard Williams,44.0,,INDIA,03/12/2019,2023-01-07,$384.40,2.0
+CUST1511,Linda Wilson,33.0,MALE,U.S.A,2020-05-03,2022-08-14,$504.77,5.0
+CUST1351,James Miller,34.0,male,UK,09-18-2020,02-22-2022,$582.27,1.0
+CUST1540,Jessica Anderson,200.0,FEMALE,U.S.A,27/05/2021,2022-01-20,$108.08,3.0
+CUST1590,Susan Taylor,26.0,FEMALE,India,2022-11-22,20/01/2023,$599.27,9.0
+CUST1542,Richard Martinez,56.0,Male,USA,04-08-2021,2022-04-03,$791.54,4.0
+CUST1467,Thomas Hernandez,61.0,MALE,Canada,2019-08-17,2023-08-14,$387.31,3.0
+CUST1498,Karen Hernandez,63.0,Male,UK,11/02/2021,"June 09, 2023",$720.61,500.0
+CUST1133,Michael Davis,56.0,male,india,09-23-2021,2022-10-04,$723.28,9.0
+CUST1796,Richard Smith,22.0,female,United States,08/04/2020,2023-10-25,$291.64,1.0
+CUST1703,Robert Martin,60.0,male,Canada,09/02/2018,12-24-2023,$688.42,5.0
+CUST1569,Patricia Williams,55.0,MALE,canada,12/10/2018,2023-07-19,$476.15,7.0
+CUST1565,Linda Martin,65.0,male,uk,2021-08-22,10/07/2024,$697.19,9.0
+CUST1109,Robert Davis,19.0,female,india,15/06/2022,02-03-2024,$576.38,7.0
+CUST1431,Patricia Brown,49.0,MALE,Canada,2019-01-04,2022-08-22,$312.28,3.0
+CUST1374,Karen Rodriguez,34.0,Male,canada,06/10/2018,12/08/2024,$563.61,9.0
+CUST1262,James Martin,150.0,male,uk,02-10-2022,"February 10, 2024",$659.48,
+CUST1709,John Davis,36.0,female,INDIA,01-20-2021,05-22-2023,$650.11,2.0
+CUST1694,Thomas Miller,19.0,male,United States,03-01-2018,2023-10-18,$549.07,9.0
+CUST1500,William Moore,61.0,male,United States,26/11/2022,"October 14, 2023",$512.28,3.0
+CUST1760,Joseph Rodriguez,40.0,female,uk,27/08/2022,13/10/2022,$176.42,6.0
+CUST1966,Joseph Rodriguez,66.0,MALE,usa,"July 09, 2022",01-02-2022,,7.0
+CUST1148,James Smith,35.0,,UK,"September 27, 2018",04/02/2022,$499.63,6.0
+CUST1886,Susan Hernandez,40.0,Female,india,08-10-2019,2022-08-22,$731.54,2.0
+CUST1918,Charles Johnson,67.0,Female,canada,16/12/2020,01-22-2023,$158.58,1.0
+CUST1869,Robert Hernandez,34.0,M,uk,2021-04-21,07-05-2023,$187.94,6.0
+CUST1158,Karen Gonzalez,39.0,FEMALE,uk,20/11/2021,20/06/2023,$150.33,6.0
+CUST1642,Barbara Smith,37.0,,usa,"November 15, 2021","June 12, 2023",$614.41,3.0
+CUST1799,Thomas Martinez,200.0,MALE,INDIA,2022-08-15,2024-01-11,$101.96,4.0
+CUST1564,Barbara Anderson,60.0,FEMALE,india,2021-11-07,06-01-2024,$775.98,8.0
+CUST1513,David Williams,21.0,FEMALE,USA,"October 21, 2020",2022-02-22,$242.98,2.0
+CUST1023,Jennifer Brown,20.0,FEMALE,United States,08-12-2019,01/04/2022,$230.10,5.0
+CUST1729,William Thomas,70.0,M,canada,05/05/2021,17/02/2024,,9.0
+CUST1128,Charles Davis,64.0,Male,U.S.A,"March 02, 2021",03-24-2023,$17.32,2.0
+CUST1308,Michael Hernandez,68.0,FEMALE,uk,2021-12-26,27/02/2023,"$8,102.61",8.0
+CUST1274,Barbara Martin,25.0,MALE,United Kingdom,"December 04, 2020",16/08/2024,$521.33,4.0
+CUST1882,Jessica Jackson,39.0,male,uk,03-05-2018,2024-07-05,$634.86,6.0
+CUST1503,Sarah Rodriguez,31.0,,,11-11-2020,09/08/2024,$264.09,10.0
+CUST1242,Thomas Jackson,32.0,female,india,2022-12-23,24/11/2023,$534.33,3.0
+CUST1362,Elizabeth Lopez,26.0,,usa,2021-12-26,2023-09-21,$430.87,7.0
+CUST1974,Elizabeth Lopez,70.0,female,Canada,02/02/2022,2023-06-04,$75.05,
+CUST1708,Patricia Moore,64.0,Female,india,07-19-2021,15/07/2022,$21.99,5.0
+CUST1838,Barbara Williams,,FEMALE,United States,"August 08, 2022","May 04, 2024",$671.56,9.0
+CUST1786,Linda Jones,50.0,male,INDIA,2022-12-14,08/10/2023,$382.81,6.0
+CUST1367,James Moore,40.0,male,UK,"April 14, 2018","June 23, 2024",$353.80,3.0
+CUST1957,David Garcia,50.0,Male,india,13/01/2022,16/01/2022,$201.12,6.0
+CUST1551,Susan Garcia,37.0,Female,INDIA,11-07-2021,"February 12, 2023",$381.86,10.0
+CUST1523,Sarah Martinez,38.0,MALE,USA,"March 28, 2020","December 03, 2022",$495.76,7.0
+CUST1997,Sarah Moore,23.0,,INDIA,05-18-2022,2022-07-25,$703.59,6.0
+CUST1531,David Davis,61.0,F,,2022-05-11,05/01/2024,$795.46,10.0
+CUST1134,Robert Garcia,51.0,FEMALE,usa,"December 19, 2019",2022-09-15,$415.47,1.0
+CUST1249,Jennifer Jackson,70.0,M,usa,11-20-2021,14/07/2024,$771.24,8.0
+CUST1917,William Smith,48.0,male,canada,"April 03, 2019",2024-07-01,$666.06,1.0
+CUST1015,Robert Miller,21.0,,USA,"January 02, 2020",2024-09-06,$73.29,10.0
+CUST1159,Elizabeth Thomas,68.0,MALE,uk,"May 27, 2021",19/02/2023,$441.05,9.0
+CUST1493,Joseph Hernandez,48.0,M,,"September 21, 2019",15/11/2023,$266.92,10.0
+CUST1048,Michael Miller,23.0,M,United States,03/09/2019,"July 15, 2022",$192.87,8.0
+CUST1861,Michael Williams,55.0,,U.S.A,2020-12-02,13/05/2022,$434.83,7.0
+CUST1994,David Brown,20.0,female,United States,"September 27, 2020",2023-01-28,"$6,200.82",3.0
+CUST1684,David Martin,36.0,FEMALE,canada,2020-01-04,17/04/2024,$774.15,3.0
+CUST1326,Joseph Martin,23.0,MALE,United Kingdom,05/07/2020,2023-02-16,$217.42,7.0
+CUST1357,John Hernandez,20.0,male,india,01-19-2020,11/04/2024,$228.55,8.0
+CUST1776,Charles Anderson,,female,uk,2018-03-20,2023-09-24,$513.03,7.0
+CUST1127,Patricia Jones,,,U.S.A,"November 16, 2021",04-25-2024,$520.26,2.0
+CUST1294,Linda Rodriguez,57.0,female,uk,14/08/2019,12-25-2023,$326.47,10.0
+CUST1385,Barbara Moore,39.0,male,India,07/11/2020,13/01/2024,$318.18,6.0
+CUST1237,Susan Martinez,53.0,FEMALE,United States,2021-06-08,2022-11-03,$538.53,2.0
+CUST1167,Thomas Hernandez,57.0,F,INDIA,"June 12, 2018",03-27-2024,$476.23,6.0
+CUST1432,Elizabeth Martin,66.0,male,Canada,"August 26, 2022","May 22, 2022",$216.72,9.0
+CUST1715,Charles Smith,31.0,female,india,10-23-2022,2022-07-27,$128.56,2.0
+CUST1080,Thomas Miller,47.0,female,U.S.A,05-24-2020,2024-10-03,$606.00,500.0
+CUST1897,Barbara Brown,-5.0,FEMALE,INDIA,"March 08, 2020",2022-07-16,$508.89,5.0
+CUST1334,Richard Taylor,57.0,MALE,United Kingdom,"October 05, 2019","October 11, 2023",$173.34,9.0
+CUST1929,Mary Hernandez,67.0,FEMALE,United States,2022-07-04,2024-03-19,$361.10,8.0
+CUST1030,Linda Garcia,62.0,,India,2018-09-08,"March 26, 2023",$790.44,8.0
+CUST1242,Thomas Jackson,32.0,female,india,2022-12-23,24/11/2023,$534.33,3.0
+CUST1826,Linda Rodriguez,60.0,Female,uk,11-19-2021,06-14-2022,$467.70,1.0
+CUST1734,Joseph Wilson,74.0,M,india,11-04-2019,2022-10-18,$26.68,6.0
+CUST1316,David Brown,60.0,male,USA,2019-03-28,16/02/2022,$461.10,8.0
+CUST1418,Karen Lopez,54.0,F,UK,2021-12-27,2023-09-24,$138.65,999.0
+CUST1757,John Garcia,35.0,MALE,canada,2022-07-06,05-18-2023,$378.34,2.0
+CUST1699,John Moore,26.0,Female,canada,"February 02, 2018",04-21-2024,$249.70,4.0
+CUST1027,Karen Jackson,53.0,Male,UK,04-14-2020,15/08/2023,$637.05,3.0
+CUST1412,Patricia Thomas,26.0,,usa,13/01/2020,06-03-2023,"$7,565.25",4.0
+CUST1122,Patricia Miller,,female,United Kingdom,23/07/2019,"September 25, 2023",$591.31,3.0
+CUST1795,Richard Thomas,28.0,female,Canada,10-28-2019,"June 13, 2024",$697.92,8.0
+CUST1507,Mary Rodriguez,63.0,MALE,USA,2019-11-13,"October 17, 2023",$163.08,10.0
+CUST1736,Michael Moore,18.0,Male,USA,"February 17, 2022",01-06-2023,$191.70,4.0
+CUST1502,William Martin,61.0,F,uk,10-27-2019,2022-03-24,$322.29,3.0
+CUST1509,Karen Rodriguez,74.0,FEMALE,USA,2021-11-22,"July 28, 2023",$547.34,6.0
+CUST1454,Charles Brown,,,United Kingdom,2021-11-16,07/12/2022,$652.60,8.0
+CUST1119,Mary Jones,69.0,FEMALE,india,20/03/2021,11/10/2023,$497.04,10.0
+CUST1271,Jessica Lopez,,FEMALE,United States,12/05/2018,11-07-2022,$735.14,1.0
+CUST1879,David Williams,75.0,female,United States,2019-04-10,"October 11, 2023",$565.85,2.0
+CUST1602,Karen Brown,34.0,FEMALE,uk,2020-05-04,22/01/2024,$595.62,10.0
+CUST1277,Joseph Martin,32.0,F,United Kingdom,01/02/2019,"September 22, 2024",$488.35,10.0
+CUST1839,Richard Johnson,55.0,male,INDIA,25/02/2018,"October 22, 2023",$577.45,
+CUST1899,David Davis,75.0,female,Canada,05-18-2021,23/06/2024,$772.72,10.0
+CUST1594,Jennifer Gonzalez,24.0,F,India,17/02/2019,2023-02-16,$528.74,7.0
+CUST1449,Elizabeth Miller,28.0,FEMALE,Canada,2020-11-14,"February 27, 2023",$336.24,7.0
+CUST1780,Karen Hernandez,48.0,,USA,06-11-2020,"March 15, 2023",$561.20,5.0
+CUST1147,Robert Davis,200.0,Male,United States,2022-08-12,"November 22, 2024",$22.43,7.0
+CUST1299,Charles Gonzalez,22.0,male,U.S.A,04-11-2020,05-23-2024,$322.41,6.0
+CUST1407,Robert Thomas,46.0,Male,UK,01/02/2019,"November 11, 2024",$528.05,8.0
+CUST1724,Mary Miller,35.0,female,usa,2020-05-06,"May 16, 2023",$143.76,5.0
+CUST1457,Jessica Lopez,60.0,Male,USA,"September 20, 2020",07-22-2023,$714.86,500.0
+CUST1051,John Davis,71.0,Male,,02/10/2020,"September 21, 2023",$153.38,8.0
+CUST1870,Joseph Smith,22.0,MALE,INDIA,18/05/2022,2022-09-11,$61.45,1.0
+CUST1712,Mary Davis,20.0,M,Canada,08-19-2022,23/09/2022,"$7,858.2",5.0
+CUST1022,Karen Jones,33.0,M,,01/07/2019,"June 26, 2024",$692.61,5.0
+CUST1314,Barbara Hernandez,35.0,,U.S.A,"September 05, 2018",05-18-2023,$622.98,3.0
+CUST1668,John Lopez,27.0,F,india,2021-09-11,2023-05-12,-50.00,7.0
+CUST1350,Karen Davis,30.0,Male,usa,2018-08-21,"April 26, 2024",$273.70,4.0
+CUST1209,Jessica Gonzalez,42.0,male,India,25/11/2022,2022-08-03,$261.79,2.0
+CUST1641,Charles Brown,,MALE,United Kingdom,"March 20, 2022",07/06/2022,$465.70,
+CUST1142,John Moore,30.0,Male,UK,2021-11-20,26/04/2022,$696.88,1.0
+CUST1050,Elizabeth Anderson,62.0,Female,canada,"May 17, 2021",2023-02-20,$590.28,1.0
+CUST1166,Charles Wilson,63.0,MALE,United States,2020-12-26,26/02/2024,$165.69,8.0
+CUST1660,Elizabeth Jones,43.0,Male,india,2022-01-11,"August 04, 2022",$226.99,7.0
+CUST1610,Patricia Gonzalez,34.0,,United States,04-11-2021,"October 21, 2022",$193.06,6.0
+CUST1081,William Anderson,49.0,FEMALE,United Kingdom,2020-04-25,07-04-2023,$478.58,5.0
+CUST1846,Joseph Miller,36.0,MALE,USA,"August 27, 2022",18/09/2023,$679.84,10.0
+CUST1321,Susan Wilson,38.0,MALE,INDIA,04-13-2022,"August 15, 2023",,
+CUST1732,Patricia Lopez,63.0,M,,"August 20, 2021",04-01-2024,$179.93,7.0
+CUST1956,Karen Williams,150.0,Female,,"September 04, 2019",24/06/2024,$746.40,1.0
+CUST1066,Thomas Taylor,71.0,M,UK,05-24-2021,03/08/2022,$188.24,7.0
+CUST1384,Thomas Thomas,43.0,male,india,"January 13, 2019",10-18-2022,$249.23,500.0
+CUST1857,Thomas Garcia,49.0,MALE,INDIA,"October 11, 2019","September 27, 2024",$755.77,2.0
+CUST1289,Linda Hernandez,40.0,,india,12-27-2018,"May 03, 2022",$658.65,3.0
+CUST1948,Jennifer Gonzalez,57.0,Male,U.S.A,10-24-2018,04/02/2023,$184.57,3.0
+CUST1571,Jessica Anderson,36.0,M,canada,10-11-2018,12-04-2024,$568.15,4.0
+CUST1283,Patricia Miller,68.0,female,,2022-10-23,2022-07-21,$660.37,10.0
+CUST1492,Susan Johnson,37.0,Female,United States,2019-12-16,2022-09-12,$339.88,10.0
+CUST1547,Linda Smith,75.0,male,UK,14/12/2019,02/02/2024,$244.33,4.0
+CUST1064,Karen Thomas,75.0,Female,,10-26-2019,11-07-2022,$579.53,3.0
+CUST1880,Sarah Garcia,27.0,M,United Kingdom,"September 20, 2018","September 18, 2022",$232.18,4.0
+CUST1264,Patricia Johnson,,F,india,10/02/2022,12-24-2024,$725.45,3.0
+CUST1442,Barbara Anderson,27.0,Female,United Kingdom,2021-06-28,"April 28, 2024",$236.77,10.0
+CUST1262,James Martin,150.0,male,uk,02-10-2022,"February 10, 2024",$659.48,
+CUST1541,John Smith,27.0,FEMALE,uk,2019-04-23,"September 07, 2024",$670.84,2.0
+CUST1020,David Jones,34.0,M,canada,"September 23, 2021",2024-01-04,$555.91,1.0
+CUST1435,William Thomas,42.0,female,,2020-06-02,01-05-2024,$596.23,
+CUST1814,David Williams,54.0,female,India,"December 24, 2022",07-19-2022,,1.0
+CUST1740,Sarah Brown,54.0,Male,United Kingdom,"August 12, 2019",02-21-2024,$649.65,2.0
+CUST1296,Thomas Moore,68.0,FEMALE,UK,2020-09-28,23/02/2023,"$8,255.27",2.0
+CUST1491,Susan Brown,54.0,Female,USA,03-04-2022,06-10-2023,$635.05,10.0
+CUST1567,Patricia Wilson,19.0,M,uk,05-08-2021,2024-08-22,$738.96,8.0
+CUST1261,John Williams,-5.0,,usa,"April 09, 2022","August 21, 2023",$23.34,9.0
+CUST1781,Richard Johnson,54.0,male,Canada,2021-09-12,12-17-2022,$603.18,8.0
+CUST1747,Sarah Davis,18.0,MALE,UK,07-19-2020,"October 25, 2023",$453.28,4.0
+CUST1404,Sarah Miller,39.0,MALE,india,16/11/2018,04-11-2024,$407.82,1.0
+CUST1557,John Taylor,74.0,F,U.S.A,05-23-2021,"September 22, 2024",$589.81,2.0
+CUST1746,Susan Garcia,22.0,Male,UK,2019-04-23,2024-08-11,"$6,874.78",6.0
+CUST1613,Richard Smith,18.0,Male,U.S.A,09/02/2019,2024-10-01,$94.01,6.0
+CUST1525,Michael Davis,46.0,MALE,United Kingdom,"May 14, 2019",03-27-2024,$76.96,5.0
+CUST1873,Jessica Jones,74.0,female,United States,21/05/2019,05-06-2023,$351.07,1.0
+CUST1188,Charles Williams,50.0,female,USA,10-06-2021,2022-05-25,$542.56,9.0
+CUST1251,Thomas Moore,38.0,male,,"September 16, 2020",12-27-2024,$343.69,
+CUST1071,John Miller,56.0,Male,USA,05/04/2020,07/09/2022,$194.07,10.0
+CUST1817,Michael Martinez,35.0,MALE,United States,"January 05, 2020","July 01, 2022",$684.81,1.0
+CUST1430,Patricia Davis,64.0,FEMALE,UK,"October 09, 2022","August 22, 2023",$414.02,8.0
+CUST1840,Joseph Anderson,51.0,Male,United Kingdom,01/11/2021,03-01-2024,$737.33,8.0
+CUST1988,Barbara Brown,36.0,Female,india,2022-11-03,2022-02-28,$62.13,5.0
+CUST1964,Patricia Jones,53.0,Female,USA,09-07-2018,08-13-2022,$373.63,5.0
+CUST1939,Thomas Martinez,22.0,F,INDIA,2018-07-03,2024-03-25,$320.68,6.0
+CUST1733,Mary Moore,34.0,female,United Kingdom,"August 14, 2021","January 09, 2023",$278.47,5.0
+CUST1987,Susan Williams,33.0,FEMALE,USA,03-24-2018,11-10-2022,$725.70,3.0
+CUST1750,Susan Thomas,50.0,male,United States,"July 13, 2022",08-12-2024,$260.41,10.0
+CUST1330,Michael Moore,34.0,,India,2022-12-05,2023-10-22,$57.49,10.0
+CUST1445,Richard Jones,54.0,,usa,11-27-2022,2023-02-08,$257.59,7.0
+CUST1968,Jennifer Thomas,60.0,FEMALE,,10-24-2020,05-19-2023,$267.96,10.0
+CUST1728,David Johnson,63.0,,uk,2019-09-22,01/11/2024,$307.21,4.0
+CUST1365,David Thomas,21.0,male,United States,2019-10-25,"November 05, 2022",$318.09,4.0
+CUST1281,Barbara Brown,59.0,Female,UK,07-19-2022,"May 22, 2024",$336.45,8.0
+CUST1858,David Davis,33.0,FEMALE,United States,2021-01-12,2023-11-23,$81.85,9.0
+CUST1718,Barbara Moore,41.0,FEMALE,INDIA,"August 26, 2019",27/10/2022,$203.51,10.0
+CUST1621,Mary Lopez,72.0,M,UK,"March 27, 2021",27/04/2022,"$5,551.21",3.0
+CUST1912,Richard Miller,20.0,F,,28/12/2018,10-24-2022,$542.62,5.0
+CUST1685,Elizabeth Martinez,18.0,FEMALE,INDIA,2019-02-03,2022-10-04,$91.85,
+CUST1396,Linda Brown,24.0,MALE,canada,13/04/2021,"August 19, 2022","$6,743.46",10.0
+CUST1207,Mary Garcia,69.0,MALE,Canada,16/02/2022,03/12/2023,$262.42,2.0
+CUST1508,Charles Garcia,200.0,male,U.S.A,28/10/2020,12-26-2024,$545.60,9.0
+CUST1218,Jennifer Rodriguez,57.0,F,USA,23/06/2021,12-16-2022,$25.98,5.0
+CUST1239,Susan Brown,66.0,Male,USA,21/11/2019,06-15-2023,$83.43,3.0
+CUST1563,Richard Martin,-5.0,female,,"January 15, 2018",2024-03-01,$230.78,4.0
+CUST1355,Michael Taylor,25.0,female,,"April 03, 2018","January 26, 2024",$131.72,8.0
+CUST1871,Karen Garcia,38.0,female,USA,22/02/2019,2022-07-01,$617.27,4.0
+CUST1192,James Wilson,,,uk,"June 01, 2018",2024-12-10,$786.66,1.0
+CUST1280,Elizabeth Martin,44.0,Female,United States,2018-12-24,2024-09-04,$172.28,7.0
+CUST1191,James Lopez,54.0,Female,canada,04-15-2022,25/08/2024,$441.78,3.0
+CUST1601,Elizabeth Brown,35.0,female,canada,2021-04-11,2022-01-01,$264.10,5.0
+CUST1644,Karen Wilson,65.0,,usa,2021-09-19,"May 28, 2024",$623.74,2.0
+CUST1707,Sarah Lopez,56.0,female,UK,2022-04-25,"December 27, 2023",$628.26,1.0
+CUST1132,Thomas Martinez,58.0,Female,uk,08/04/2022,03-15-2023,$443.90,9.0
+CUST1677,Karen Brown,47.0,female,UK,16/01/2018,11-05-2023,$534.81,5.0
+CUST1423,Linda Martinez,26.0,male,United Kingdom,"February 01, 2018",2023-01-07,-50.00,10.0
+CUST1252,Patricia Smith,21.0,Male,United States,03-10-2020,01-23-2022,$437.53,8.0
+CUST1714,John Wilson,27.0,Male,uk,"June 11, 2022",06-16-2024,$136.65,500.0
+CUST1967,Charles Miller,70.0,M,United Kingdom,09/10/2022,2022-02-06,$391.31,8.0
+CUST1263,Jennifer Moore,65.0,F,,21/05/2022,11-26-2023,$18.81,3.0
+CUST1070,Susan Rodriguez,,female,United States,08-08-2021,11-12-2022,"$6,103.53",8.0
+CUST1272,David Brown,51.0,Female,canada,18/10/2020,11-13-2023,$719.60,5.0
+CUST1598,Susan Martin,45.0,FEMALE,UK,"August 03, 2020",05/10/2022,$615.71,4.0
+CUST1327,Robert Jones,30.0,FEMALE,United Kingdom,18/04/2022,"February 09, 2022",$740.07,7.0
+CUST1115,William Anderson,24.0,Male,UK,14/10/2021,06-19-2022,$135.88,8.0
+CUST1323,Robert Brown,,female,U.S.A,12/05/2019,05-26-2022,$325.84,2.0
+CUST1006,Charles Gonzalez,26.0,,India,2018-01-28,"November 06, 2022",$313.97,8.0
+CUST1705,Linda Martinez,31.0,male,uk,"January 08, 2019",2024-08-04,$36.67,7.0
+CUST1417,Robert Rodriguez,58.0,FEMALE,usa,"July 06, 2020",2024-11-08,$229.00,2.0
+CUST1482,Robert Wilson,44.0,FEMALE,india,15/01/2020,2022-12-26,$258.70,3.0
+CUST1659,William Wilson,46.0,M,INDIA,13/10/2020,2024-01-10,$686.32,8.0
+CUST1864,Karen Davis,34.0,F,Canada,12-28-2022,11-24-2022,$18.08,7.0
+CUST1854,John Hernandez,24.0,,UK,2018-10-02,04/06/2024,,1.0
+CUST1696,Elizabeth Brown,32.0,Male,INDIA,01/06/2022,05-13-2023,"$8,485.89",2.0
+CUST1597,David Gonzalez,65.0,F,U.S.A,2018-02-26,2022-03-12,$196.84,6.0
+CUST1792,Patricia Hernandez,22.0,FEMALE,canada,04-25-2021,"May 23, 2023",$365.80,5.0
+CUST1779,Robert Rodriguez,56.0,female,usa,04-01-2019,02-20-2022,$491.36,7.0
+CUST1278,Karen Johnson,52.0,,,16/02/2018,2024-09-27,$622.15,9.0
+CUST1831,Barbara Taylor,27.0,,india,12/09/2018,09-06-2024,$547.51,10.0
+CUST1775,Sarah Gonzalez,23.0,,usa,"December 05, 2019","May 12, 2023",$202.84,9.0
+CUST1002,Barbara Lopez,69.0,Male,canada,"September 04, 2021",09-10-2022,$566.61,500.0
+CUST1229,Jessica Miller,73.0,F,india,02/07/2020,"April 11, 2022",$715.35,3.0
+CUST1777,James Garcia,34.0,male,United Kingdom,04-19-2018,17/10/2023,$48.58,4.0
+CUST1982,Mary Smith,63.0,female,,2022-06-11,25/08/2022,$272.69,9.0
+CUST1860,John Thomas,,male,uk,"August 20, 2022",08-26-2023,$562.13,1.0
+CUST1906,Elizabeth Hernandez,54.0,Male,india,23/12/2018,03/02/2023,$423.00,4.0
+CUST1788,Robert Martinez,150.0,MALE,INDIA,"August 08, 2021",2022-03-15,$671.92,3.0
+CUST1199,Richard Thomas,,F,U.S.A,04-06-2020,2023-08-05,$497.41,8.0
+CUST1371,Robert Taylor,66.0,Female,India,2022-02-17,2022-08-21,$435.97,10.0
+CUST1924,Linda Jackson,44.0,male,United States,27/03/2021,2024-01-26,$733.52,5.0
+CUST1701,Sarah Jones,25.0,female,uk,2019-06-14,2022-04-03,$600.51,9.0
+CUST1649,Barbara Garcia,75.0,MALE,UK,27/09/2019,07-25-2024,$227.22,1.0
+CUST1065,Patricia Johnson,46.0,Male,INDIA,2020-12-05,"June 24, 2023",$114.41,6.0
+CUST1307,Jessica Miller,27.0,Male,india,03-04-2018,"March 23, 2023",$193.92,8.0
+CUST1040,Susan Garcia,59.0,Female,INDIA,"August 15, 2022",10-09-2024,$666.28,8.0
+CUST1585,Patricia Moore,53.0,F,usa,11-03-2020,05/05/2023,$87.38,4.0
+CUST1972,Linda Thomas,49.0,F,INDIA,14/07/2019,20/04/2023,$482.41,2.0
+CUST1530,Michael Wilson,62.0,F,United States,2021-08-28,19/03/2023,$592.87,6.0
+CUST1664,Joseph Brown,33.0,FEMALE,Canada,"May 11, 2021",02-09-2022,$288.88,4.0
+CUST1644,Karen Wilson,65.0,,usa,2021-09-19,"May 28, 2024",$623.74,2.0
+CUST1818,Joseph Anderson,31.0,F,INDIA,2018-02-06,"April 04, 2022",$293.13,7.0
+CUST1598,Susan Martin,45.0,FEMALE,UK,"August 03, 2020",05/10/2022,$615.71,4.0
+CUST1273,Richard Davis,40.0,female,India,01/10/2021,2023-03-08,$231.84,3.0
+CUST1900,Linda Jackson,70.0,MALE,India,08-01-2022,13/02/2024,$74.23,10.0
+CUST1666,David Martinez,59.0,M,india,03-08-2018,28/08/2023,$158.48,3.0
+CUST1680,Richard Wilson,75.0,male,UK,10/10/2020,07-22-2024,$119.95,5.0
+CUST1802,Patricia Garcia,38.0,,India,2021-03-06,2023-11-10,$360.13,9.0
+CUST1177,Mary Brown,71.0,FEMALE,USA,"March 15, 2018",07/07/2022,$248.47,5.0
+CUST1300,Charles Taylor,44.0,M,U.S.A,24/03/2018,2024-05-24,$323.67,8.0
+CUST1037,Robert Davis,60.0,male,INDIA,08-23-2019,2023-03-20,$139.37,10.0
+CUST1353,Thomas Martinez,61.0,female,india,01-07-2022,02-05-2023,$277.93,9.0
+CUST1202,Linda Garcia,60.0,MALE,UK,02/12/2022,12/07/2024,$478.09,6.0
+CUST1236,Karen Martin,44.0,male,india,2022-02-10,07/08/2022,$666.88,6.0
+CUST1149,William Gonzalez,43.0,FEMALE,INDIA,12-08-2019,2024-02-21,$309.62,1.0
+CUST1718,Barbara Moore,41.0,FEMALE,INDIA,"August 26, 2019",27/10/2022,$203.51,10.0
+CUST1447,Linda Rodriguez,27.0,female,India,2020-05-01,2024-11-26,$633.15,9.0
+CUST1217,Patricia Wilson,54.0,male,usa,02-26-2022,06-14-2024,$393.61,1.0
+CUST1716,John Davis,54.0,,canada,2021-09-24,"January 20, 2024",$421.07,4.0
+CUST1466,Barbara Taylor,46.0,F,India,"October 20, 2020",07-26-2022,$352.94,1.0
+CUST1582,Karen Moore,62.0,male,Canada,02/04/2018,28/05/2022,$485.69,6.0
+CUST1898,Karen Wilson,56.0,M,india,06-24-2020,"March 12, 2024","$6,788.31",4.0
+CUST1471,Jessica Anderson,73.0,FEMALE,UK,"October 12, 2022",05/02/2023,,1.0
+CUST1302,Robert Taylor,19.0,Male,Canada,"June 28, 2020","September 09, 2023",$759.30,10.0
+CUST1905,Patricia Johnson,53.0,FEMALE,uk,"June 27, 2019","January 21, 2024",$322.47,1.0
+CUST1969,Thomas Rodriguez,67.0,MALE,United States,07-16-2018,"September 10, 2023",$793.14,999.0
+CUST1916,Patricia Martinez,47.0,MALE,usa,2018-08-06,24/02/2022,$710.29,5.0
+CUST1977,Susan Davis,72.0,Female,Canada,"April 08, 2020",2022-12-05,$474.27,2.0
+CUST1388,Jessica Martin,,M,USA,11-02-2019,20/08/2022,$60.53,2.0
+CUST1049,John Davis,68.0,MALE,United Kingdom,08/09/2018,2023-03-03,$253.01,10.0
+CUST1422,James Thomas,62.0,female,U.S.A,10-17-2021,2022-12-10,$103.69,3.0
+CUST1387,Mary Hernandez,150.0,F,usa,"November 22, 2019",05/09/2024,$39.13,1.0
+CUST1570,Susan Hernandez,69.0,M,india,2022-10-08,"January 18, 2023",$654.76,4.0
+CUST1390,Charles Garcia,25.0,Female,U.S.A,03-23-2021,15/03/2024,$42.15,10.0
+CUST1825,Patricia Thomas,71.0,MALE,U.S.A,05/09/2019,2022-11-03,$233.02,4.0
+CUST1352,Jennifer Miller,39.0,FEMALE,India,"November 05, 2018",11-15-2022,$653.19,1.0
+CUST1193,Robert Rodriguez,32.0,,United Kingdom,2020-08-24,17/02/2024,$321.54,1.0
+CUST1235,Patricia Wilson,25.0,,UK,05/12/2021,2024-11-21,$532.72,5.0
+CUST1507,Mary Rodriguez,63.0,MALE,USA,2019-11-13,"October 17, 2023",$163.08,10.0
+CUST1881,Patricia Jones,24.0,Male,U.S.A,"August 13, 2021",01-19-2022,$472.06,1.0
+CUST1480,Jennifer Martinez,66.0,,India,03-21-2018,04/03/2023,$338.44,4.0
+CUST1055,Joseph Brown,27.0,FEMALE,canada,09-23-2020,16/08/2023,$124.27,10.0
+CUST1116,Jessica Martinez,23.0,F,india,04-07-2021,"January 10, 2022",$675.85,5.0
+CUST1096,John Davis,74.0,female,USA,01-13-2021,07-03-2022,$261.76,6.0
+CUST1141,Elizabeth Jones,21.0,,United Kingdom,17/09/2021,09/04/2023,$72.47,6.0
+CUST1739,Jessica Gonzalez,23.0,MALE,United Kingdom,05-16-2022,17/09/2024,$794.59,6.0
+CUST1909,Robert Taylor,42.0,F,USA,2022-05-16,"December 23, 2024",$41.70,4.0
+CUST1821,Charles Smith,27.0,M,canada,02/01/2021,11-10-2024,$660.37,3.0
+CUST1624,Elizabeth Brown,74.0,Male,INDIA,2019-09-06,"July 22, 2023",$665.32,9.0
+CUST1603,Thomas Martin,59.0,Female,United States,2022-07-03,2022-11-24,-50.00,4.0
+CUST1120,David Taylor,52.0,FEMALE,canada,2022-05-16,2023-06-22,$471.12,1.0
+CUST1751,Michael Garcia,71.0,Female,canada,"July 18, 2019",12-26-2023,$450.75,6.0
+CUST1765,Karen Taylor,54.0,M,U.S.A,01-03-2020,"June 15, 2022",$10.67,3.0
+CUST1878,Susan Hernandez,73.0,M,,2021-06-20,2024-02-26,$16.85,1.0
+CUST1062,Joseph Rodriguez,75.0,FEMALE,UK,"March 03, 2022","October 10, 2023",$370.90,7.0
+CUST1801,William Wilson,49.0,M,uk,08-17-2022,09/05/2024,$545.50,8.0
+CUST1806,Susan Lopez,26.0,FEMALE,,27/01/2020,11-23-2022,$305.05,7.0
+CUST1453,Linda Smith,53.0,MALE,usa,09/04/2021,"July 20, 2022",$127.91,3.0
+CUST1345,Sarah Smith,49.0,MALE,United States,"November 16, 2022",2023-08-03,$442.40,9.0
+CUST1414,Barbara Gonzalez,36.0,female,uk,2020-08-28,"December 15, 2022",$238.02,7.0
+CUST1003,Elizabeth Williams,73.0,male,United Kingdom,08-21-2020,12/06/2022,$564.44,2.0
+CUST1058,Jessica Johnson,55.0,female,usa,"February 17, 2021","December 05, 2022",$776.27,5.0
+CUST1223,Susan Taylor,,Male,India,2019-11-06,05-20-2022,$570.40,7.0
+CUST1652,Patricia Hernandez,48.0,,USA,09-24-2019,2022-04-20,$419.22,4.0
+CUST1101,Robert Johnson,39.0,M,,16/12/2021,"February 23, 2022",-50.00,4.0
+CUST1932,Charles Thomas,46.0,male,usa,2019-03-05,"August 12, 2023",,6.0
+CUST1221,Linda Johnson,41.0,MALE,UK,"August 17, 2020",2024-02-22,$396.14,8.0
+CUST1558,Patricia Jackson,40.0,M,UK,12-13-2019,"March 27, 2022",,7.0
+CUST1004,Karen Garcia,33.0,M,India,21/05/2021,2024-06-27,$35.36,5.0
+CUST1465,Michael Garcia,43.0,Female,Canada,"February 10, 2019",12-26-2023,$486.78,2.0
+CUST1052,John Thomas,39.0,female,Canada,"March 11, 2018","August 10, 2024",$444.58,6.0
+CUST1485,David Gonzalez,65.0,M,india,2022-05-07,09-10-2024,$136.42,
+CUST1496,Jennifer Smith,31.0,MALE,canada,08-03-2022,"October 02, 2023",$28.38,7.0
+CUST1702,Charles Johnson,18.0,MALE,USA,"January 05, 2018",05-02-2022,$527.62,5.0
+CUST1155,William Brown,29.0,F,India,"September 17, 2022",01-03-2022,$481.57,7.0
+CUST1700,James Johnson,,MALE,india,2022-07-22,"August 02, 2024",$559.40,7.0
+CUST1676,Sarah Anderson,74.0,,U.S.A,11-12-2020,10-14-2023,$42.47,6.0
+CUST1248,Mary Jackson,75.0,FEMALE,India,"September 05, 2022",2022-09-24,$351.92,9.0
+CUST1441,Sarah Garcia,58.0,,U.S.A,"August 07, 2022","November 18, 2023",$584.03,500.0
+CUST1965,Barbara Johnson,55.0,male,India,2021-07-25,2024-09-24,$131.13,6.0
+CUST1117,Sarah Smith,45.0,M,UK,2020-07-12,19/01/2023,$238.00,8.0
+CUST1971,John Davis,48.0,male,,"January 14, 2020","March 14, 2023",$273.69,5.0
+CUST1368,Jessica Jones,42.0,female,United Kingdom,28/05/2019,2022-01-03,$709.06,3.0
+CUST1291,Barbara Jones,25.0,male,Canada,2021-10-01,06-20-2023,$788.44,5.0
+CUST1381,William Wilson,60.0,female,UK,2019-02-09,2023-07-11,$652.11,2.0
+CUST1630,Linda Miller,59.0,M,,09-17-2019,03-11-2023,$686.20,7.0
+CUST1200,Susan Moore,23.0,Female,United Kingdom,07/07/2019,2024-09-26,$627.71,9.0
+CUST1755,Robert Garcia,26.0,male,United Kingdom,2018-01-15,02-28-2023,$163.40,1.0
+CUST1955,Susan Martinez,22.0,MALE,usa,19/01/2022,"September 16, 2023",$196.63,4.0
+CUST1505,Sarah Smith,70.0,FEMALE,Canada,"June 27, 2018",13/06/2024,$651.38,2.0
+CUST1807,David Moore,30.0,MALE,INDIA,08-28-2022,08/02/2022,$388.95,8.0
+CUST1340,Linda Taylor,65.0,Male,india,2021-09-25,"May 15, 2022",$621.20,3.0
+CUST1154,Elizabeth Davis,23.0,Female,U.S.A,26/12/2021,07-11-2024,$14.10,6.0
+CUST1907,John Lopez,39.0,male,United Kingdom,"February 16, 2020","January 17, 2024",$322.83,2.0
+CUST1848,Charles Jones,68.0,,canada,2021-09-11,04-24-2024,$519.52,4.0
+CUST1769,John Davis,30.0,Male,United States,07-03-2020,"November 06, 2023",$255.76,8.0
+CUST1829,Sarah Anderson,60.0,female,,05-03-2022,01/11/2023,$780.32,2.0
+CUST1322,Elizabeth Martin,,M,UK,08/05/2018,01-25-2023,$413.90,10.0
+CUST1943,Charles Taylor,64.0,Female,Canada,04-20-2019,"November 26, 2022",$319.39,10.0
+CUST1618,Robert Jones,42.0,FEMALE,canada,"February 04, 2021",2024-05-05,$110.75,6.0
+CUST1082,Mary Davis,56.0,Male,USA,07/05/2019,2023-05-11,,3.0
+CUST1615,Sarah Martinez,74.0,F,U.S.A,01/04/2018,07-05-2023,$188.45,7.0
+CUST1464,Robert Miller,69.0,Female,uk,"December 03, 2018",09/07/2022,$618.99,1.0
+CUST1995,William Gonzalez,35.0,female,United Kingdom,2018-09-12,05-24-2023,$30.66,3.0
+CUST1333,Barbara Lopez,33.0,,UK,"November 09, 2018",09/09/2022,$718.77,2.0
+CUST1010,Sarah Miller,43.0,female,India,04/08/2022,2022-02-11,$191.79,2.0
+CUST1470,Joseph Martin,39.0,M,United States,02-24-2019,2024-02-14,,3.0
+CUST1032,Linda Rodriguez,75.0,,usa,"March 08, 2019",23/03/2024,"$6,630.4",7.0
+CUST1813,Sarah Garcia,72.0,male,INDIA,21/10/2021,11-14-2022,$712.59,3.0
+CUST1925,Linda Gonzalez,31.0,,Canada,2018-04-01,04/05/2022,$623.09,5.0
+CUST1382,Jessica Miller,29.0,FEMALE,usa,"September 25, 2019",2022-10-21,$575.17,2.0
+CUST1794,Robert Jones,36.0,F,UK,28/01/2019,2024-05-05,$579.70,9.0
+CUST1587,David Gonzalez,69.0,,india,16/07/2022,22/01/2023,$122.71,5.0
+CUST1950,Richard Martin,19.0,,,"April 22, 2020",09-11-2023,,7.0
+CUST1959,Joseph Taylor,61.0,F,india,"December 13, 2022","September 12, 2024",$423.54,9.0
+CUST1378,Richard Anderson,65.0,MALE,canada,04-17-2022,12-06-2024,$541.51,1.0
+CUST1089,Linda Anderson,51.0,,INDIA,06-12-2019,07-25-2023,$51.37,6.0
+CUST1213,Jennifer Lopez,41.0,M,India,"May 15, 2018",04-27-2023,$129.39,2.0
+CUST1883,Elizabeth Williams,69.0,FEMALE,USA,14/10/2022,05-07-2023,$724.38,
+CUST1133,Michael Davis,56.0,male,india,09-23-2021,2022-10-04,$723.28,9.0
+CUST1346,Michael Johnson,21.0,female,USA,01-22-2019,2023-02-02,$150.82,10.0
+CUST1663,John Rodriguez,57.0,F,UK,"March 19, 2019",11/03/2022,$711.36,7.0
+CUST1007,Thomas Rodriguez,73.0,Male,Canada,11-18-2018,06-04-2024,$368.44,5.0
+CUST1651,Susan Williams,58.0,male,United States,"July 11, 2021",2022-03-10,$531.14,1.0
+CUST1320,Susan Brown,29.0,,United Kingdom,22/06/2022,10-15-2024,$444.56,6.0
+CUST1108,Joseph Williams,72.0,female,Canada,12-03-2020,23/03/2023,$411.92,4.0
+CUST1187,Jessica Lopez,68.0,Female,U.S.A,03-24-2020,2024-02-25,$349.17,5.0
+CUST1552,Susan Jones,68.0,FEMALE,USA,2021-07-28,18/10/2023,$148.80,5.0
+CUST1304,James Smith,66.0,M,uk,2020-08-18,"August 25, 2024",$615.04,10.0
+CUST1031,Karen Taylor,53.0,FEMALE,U.S.A,09/08/2021,"May 25, 2024",$226.93,5.0
+CUST1859,Charles Jackson,51.0,F,,11-07-2022,15/03/2023,$504.81,7.0
+CUST1240,Patricia Gonzalez,47.0,Female,United Kingdom,21/07/2021,2022-03-23,$677.04,10.0
+CUST1767,Jessica Moore,62.0,MALE,India,23/08/2021,07-05-2022,$115.49,5.0
+CUST1174,William Jones,26.0,MALE,U.S.A,"April 25, 2020",03-19-2023,$306.39,2.0
+CUST1245,John Martin,58.0,Female,india,"April 21, 2022",2023-06-27,$677.01,10.0
+CUST1056,Thomas Jones,35.0,F,uk,2022-05-27,"December 10, 2023",$362.77,6.0
+CUST1791,Susan Brown,72.0,Female,,24/02/2022,07-22-2023,$202.02,5.0
+CUST1145,Charles Wilson,30.0,female,United States,27/10/2021,09-21-2023,$659.06,8.0
+CUST1090,John Hernandez,61.0,F,UK,28/12/2020,19/02/2023,$255.08,7.0
+CUST1392,Michael Jones,51.0,FEMALE,United Kingdom,2019-03-20,"March 23, 2024",$79.54,5.0
+CUST1310,Jessica Gonzalez,37.0,female,U.S.A,2018-12-18,08-21-2023,$711.14,4.0
+CUST1359,Linda Garcia,57.0,female,india,2021-01-05,2023-11-02,$78.03,10.0
+CUST1093,Richard Jones,71.0,M,canada,01-14-2021,"December 08, 2024",$604.39,4.0
+CUST1731,Jessica Gonzalez,52.0,FEMALE,UK,04-04-2018,11/08/2023,$101.50,6.0
+CUST1790,Patricia Martin,52.0,Male,India,12-02-2021,2023-12-25,$576.13,8.0
+CUST1376,Patricia Johnson,43.0,FEMALE,UK,25/12/2021,"November 23, 2023",$124.67,1.0
+CUST1243,Sarah Martin,200.0,,India,"March 03, 2021",04-11-2023,"$5,890.83",7.0
+CUST1866,Patricia Garcia,49.0,male,U.S.A,06-06-2022,"December 23, 2024",$236.29,5.0
+CUST1087,Charles Johnson,22.0,Female,India,01-02-2021,2023-02-21,$410.58,9.0
+CUST1214,John Lopez,44.0,MALE,india,"July 27, 2018","November 28, 2024",$196.16,7.0
+CUST1444,William Moore,72.0,Male,canada,2021-01-02,2023-10-10,$331.54,2.0
+CUST1173,Mary Jackson,35.0,,U.S.A,12-10-2020,2024-05-28,$602.57,1.0
+CUST1425,Charles Lopez,72.0,,,2022-04-17,2022-10-25,$575.49,3.0
+CUST1815,James Davis,27.0,Female,United States,11-25-2022,21/08/2024,$463.81,10.0
+CUST1118,Sarah Rodriguez,57.0,male,U.S.A,07-12-2018,25/06/2024,$412.21,1.0
+CUST1119,Mary Jones,69.0,FEMALE,india,20/03/2021,11/10/2023,$497.04,10.0
+CUST1867,Patricia Brown,74.0,MALE,usa,07/08/2022,"January 16, 2024",$190.63,3.0
+CUST1000,Patricia Smith,33.0,MALE,U.S.A,2018-11-24,2024-07-02,$193.80,9.0
+CUST1394,Patricia Jones,48.0,FEMALE,U.S.A,2019-11-02,10/06/2024,$274.09,8.0
+CUST1401,Susan Miller,36.0,MALE,Canada,01-16-2018,2022-12-15,$376.37,7.0
+CUST1404,Sarah Miller,39.0,MALE,india,16/11/2018,04-11-2024,$407.82,1.0
+CUST1650,Charles Brown,56.0,male,usa,09/05/2019,02-16-2022,$174.30,1.0
+CUST1657,Robert Hernandez,38.0,Male,canada,04-15-2020,"September 03, 2022",$177.62,9.0
+CUST1162,Karen Johnson,59.0,F,,2020-07-04,08/05/2022,$319.00,10.0
+CUST1114,Susan Thomas,39.0,M,uk,12-28-2020,03-25-2023,$93.89,2.0
+CUST1150,James Garcia,72.0,F,Canada,2020-10-28,08/01/2024,$556.91,5.0
+CUST1619,David Thomas,62.0,F,INDIA,26/03/2020,"July 18, 2023",$399.16,4.0
+CUST1611,Robert Thomas,29.0,FEMALE,U.S.A,"April 19, 2019",03-21-2024,,3.0
+CUST1856,Charles Garcia,63.0,M,india,2019-08-01,02-26-2024,$95.14,10.0
+CUST1368,Jessica Jones,42.0,female,United Kingdom,28/05/2019,2022-01-03,$709.06,3.0
+CUST1543,John Davis,24.0,M,canada,2019-01-14,18/06/2023,$748.12,7.0
+CUST1477,Jessica Brown,49.0,Female,United States,2019-09-02,12/05/2023,$688.97,2.0
+CUST1532,Karen Jackson,42.0,MALE,United Kingdom,13/09/2018,"February 11, 2023",$250.67,9.0
+CUST1512,Linda Brown,39.0,Male,uk,"April 03, 2022",2022-11-15,$57.94,
+CUST1894,Michael Davis,20.0,female,United Kingdom,"August 11, 2021",15/08/2023,$602.94,1.0
+CUST1810,William Moore,36.0,Male,U.S.A,12-23-2018,24/08/2023,$379.98,6.0
+CUST1258,Thomas Thomas,70.0,Male,usa,08/08/2020,"November 11, 2022",$756.54,9.0
+CUST1889,James Wilson,32.0,MALE,USA,11/07/2018,"April 23, 2023",$156.99,10.0
+CUST1135,Sarah Anderson,37.0,Male,United Kingdom,24/01/2020,"February 02, 2024",$60.37,2.0
+CUST1616,Patricia Thomas,25.0,MALE,usa,06-03-2020,2022-06-03,$150.67,10.0
+CUST1973,Patricia Williams,65.0,Male,U.S.A,2022-07-16,2024-11-05,,3.0
+CUST1669,Michael Martinez,29.0,Female,india,"August 17, 2022",02/11/2022,$183.47,500.0
+CUST1592,Mary Wilson,28.0,female,usa,2020-11-08,05-16-2023,$11.77,7.0
+CUST1837,Karen Lopez,72.0,FEMALE,canada,2021-07-02,12-24-2023,$515.81,5.0
+CUST1501,Barbara Moore,68.0,MALE,india,2021-09-15,08-27-2022,$142.23,8.0
+CUST1538,Elizabeth Williams,64.0,MALE,India,09-04-2021,02-17-2022,$140.22,1.0
+CUST1689,Joseph Johnson,40.0,M,India,01/05/2021,28/09/2023,$567.92,2.0
+CUST1581,Patricia Taylor,52.0,M,United Kingdom,2018-04-10,"May 22, 2024",$397.45,6.0
+CUST1343,Barbara Williams,42.0,,INDIA,"July 18, 2019",11/03/2022,$124.24,1.0
+CUST1713,James Lopez,20.0,MALE,uk,"February 17, 2018",03/09/2022,$460.59,7.0
+CUST1656,Thomas Rodriguez,36.0,,uk,04/01/2021,26/07/2023,$67.39,6.0
+CUST1293,Joseph Brown,47.0,female,canada,22/01/2018,10-04-2023,$690.86,5.0
+CUST1364,Charles Thomas,56.0,FEMALE,uk,"February 27, 2022",2022-05-13,$551.55,7.0
+CUST1662,Robert Brown,73.0,F,United States,02-07-2019,2024-01-23,$630.11,5.0
+CUST1014,Susan Thomas,73.0,F,USA,"July 01, 2019","August 10, 2023",$587.10,8.0
+CUST1086,Robert Williams,67.0,FEMALE,India,10-15-2022,"June 05, 2024","$6,768.83",5.0
+CUST1370,Charles Thomas,33.0,,UK,09-19-2021,"January 19, 2022",$99.40,2.0
+CUST1165,Thomas Garcia,39.0,,United Kingdom,"April 26, 2021","March 06, 2024",$592.54,8.0
+CUST1926,Joseph Brown,40.0,F,USA,"May 11, 2022","April 10, 2023",$736.45,10.0
+CUST1335,Michael Jones,63.0,,U.S.A,21/03/2021,2023-02-18,$673.22,1.0
+CUST1059,David Martin,59.0,male,uk,"July 11, 2022",2024-01-20,$550.68,4.0
+CUST1354,Jennifer Jackson,29.0,male,,12-28-2020,"January 09, 2024",$702.87,5.0
+CUST1424,Mary Thomas,34.0,Male,usa,2020-11-01,07/10/2022,$287.71,5.0
+CUST1292,Jessica Garcia,50.0,Female,United Kingdom,2019-10-05,2024-07-16,$321.04,3.0
+CUST1041,Linda Anderson,60.0,F,uk,08-28-2018,08-07-2022,$278.87,5.0
+CUST1329,Robert Williams,21.0,MALE,INDIA,05-01-2019,"February 10, 2024",$272.18,4.0
+CUST1614,John Miller,66.0,FEMALE,U.S.A,16/06/2020,01-18-2022,$107.23,2.0
+CUST1429,Jessica Brown,51.0,male,usa,2019-07-13,03-03-2024,$277.52,7.0
+CUST1079,Jennifer Rodriguez,37.0,female,uk,28/03/2018,2024-11-13,$510.21,
+CUST1028,John Martinez,58.0,female,usa,10/11/2019,2022-03-01,$385.36,2.0
+CUST1254,Sarah Johnson,,Female,United States,27/08/2022,12-23-2024,$441.83,4.0
+CUST1789,Linda Anderson,22.0,Male,canada,"November 22, 2018","August 28, 2024",$339.50,9.0
+CUST1458,William Garcia,39.0,FEMALE,U.S.A,"June 23, 2018",05-04-2022,-50.00,5.0
+CUST1383,John Jackson,67.0,FEMALE,USA,2021-03-21,11-13-2022,$270.57,1.0
+CUST1313,Joseph Miller,,F,uk,"May 02, 2019",08-18-2024,$397.17,9.0
+CUST1084,Elizabeth Brown,38.0,M,,08-27-2022,2022-07-28,$475.21,7.0
+CUST1574,Richard Brown,66.0,Male,canada,21/08/2020,"March 15, 2024",$124.41,4.0
+CUST1136,Jessica Johnson,29.0,M,,"June 13, 2021",03/07/2023,$284.74,9.0
+CUST1111,Patricia Taylor,28.0,M,uk,06-17-2019,05-07-2022,$249.23,9.0
+CUST1194,Susan Jones,34.0,female,,12-27-2021,09/08/2023,$170.14,10.0
+CUST1178,John Lopez,41.0,M,USA,10/11/2021,2023-11-03,,3.0
+CUST1930,William Jackson,52.0,Male,UK,"February 23, 2022",10/08/2022,-50.00,7.0
+CUST1496,Jennifer Smith,31.0,MALE,canada,08-03-2022,"October 02, 2023",$28.38,7.0
+CUST1129,David Martinez,59.0,,india,"March 28, 2021",2023-04-26,$587.58,3.0
+CUST1337,Karen Davis,32.0,Male,uk,"December 25, 2018","September 28, 2022",$305.43,8.0
+CUST1608,Elizabeth Johnson,74.0,Female,U.S.A,21/01/2020,2022-09-04,$509.82,6.0
+CUST1124,Karen Thomas,33.0,Female,india,04-10-2020,"April 23, 2024",$285.55,5.0
+CUST1318,Barbara Moore,74.0,F,uk,2018-10-09,02-27-2024,$180.56,2.0
+CUST1226,Richard Hernandez,64.0,Male,Canada,"May 09, 2021",2023-07-24,$795.86,6.0
+CUST1268,Jessica Anderson,67.0,Female,India,2022-02-06,18/03/2023,$710.21,2.0
+CUST1152,Elizabeth Garcia,54.0,F,Canada,13/06/2022,12-03-2024,"$6,748.35",6.0
+CUST1584,John Rodriguez,62.0,MALE,canada,22/10/2020,"March 11, 2023",$771.57,5.0
+CUST1103,Susan Gonzalez,75.0,F,uk,"August 23, 2019",2023-09-09,$72.35,3.0
+CUST1593,Michael Martinez,59.0,,USA,"October 28, 2021","June 01, 2022",$289.58,
+CUST1896,Michael Smith,28.0,Female,india,"April 07, 2020","December 16, 2024",$682.76,1.0
+CUST1691,Thomas Taylor,62.0,female,INDIA,"June 19, 2022",01/01/2022,$535.56,8.0
+CUST1227,Linda Moore,48.0,female,india,27/03/2020,16/02/2023,$582.90,3.0
+CUST1928,James Gonzalez,,FEMALE,,2018-08-09,2022-04-24,$601.75,8.0
+CUST1301,Sarah Johnson,,F,india,09/02/2018,11-13-2022,$592.70,3.0
+CUST1275,Mary Jones,28.0,M,Canada,19/01/2022,09/03/2022,$330.31,1.0
+CUST1126,Michael Moore,53.0,Female,U.S.A,24/10/2018,22/01/2022,$51.47,8.0
+CUST1405,John Lopez,49.0,,india,08-23-2018,2023-10-12,$708.34,7.0
+CUST1683,Barbara Jones,75.0,Female,USA,2021-03-13,2023-09-15,$223.44,2.0
+CUST1934,Patricia Smith,54.0,M,Canada,08-22-2019,2024-05-16,$528.45,2.0
+CUST1036,William Williams,65.0,,USA,2020-04-21,2024-01-25,$167.49,
+CUST1139,Michael Johnson,36.0,MALE,canada,06-19-2022,05/05/2022,$227.37,10.0
+CUST1303,Karen Anderson,58.0,F,india,"May 12, 2022",2024-04-26,$298.97,5.0
+CUST1267,Charles Lopez,45.0,M,USA,26/04/2020,"December 21, 2024",$293.99,6.0
+CUST1533,Jennifer Johnson,56.0,FEMALE,USA,"April 03, 2019",04-08-2023,$65.28,500.0
+CUST1545,Barbara Johnson,200.0,F,UK,04/08/2022,02-20-2023,$560.09,3.0
+CUST1212,Karen Thomas,19.0,MALE,U.S.A,2020-02-16,"July 16, 2023",$219.35,7.0
+CUST1468,Elizabeth Davis,36.0,Male,india,2018-01-17,2024-07-14,$579.04,6.0
+CUST1198,Charles Jackson,70.0,male,USA,"April 21, 2018",02-28-2022,$754.40,999.0
+CUST1672,Joseph Jones,60.0,FEMALE,United Kingdom,01-06-2020,2022-03-22,$775.94,8.0
+CUST1527,Jennifer Anderson,59.0,male,uk,2018-05-27,2023-04-04,$40.24,4.0
+CUST1675,Robert Wilson,60.0,M,uk,"January 08, 2021",2023-04-24,$764.30,5.0
+CUST1833,John Rodriguez,60.0,Female,United States,2022-10-03,"March 05, 2023",$614.03,4.0
+CUST1241,Jessica Jackson,29.0,F,,01/10/2020,"August 04, 2023",$60.04,1.0
+CUST1342,Richard Wilson,19.0,M,India,"December 07, 2022",11/05/2022,$107.60,8.0
+CUST1549,David Hernandez,52.0,Male,Canada,23/11/2019,07-17-2024,$507.53,8.0
+CUST1386,Jessica Williams,46.0,MALE,U.S.A,01/04/2018,07-03-2023,$772.31,1.0
+CUST1902,Sarah Jones,38.0,FEMALE,uk,07/09/2022,10-04-2024,$591.04,9.0
+CUST1206,Sarah Martin,32.0,M,United Kingdom,12-23-2020,2022-03-24,$759.47,10.0
+CUST1295,Robert Jackson,70.0,male,canada,"April 18, 2020",05/04/2023,$17.70,3.0
+CUST1695,Jessica Miller,54.0,FEMALE,india,20/06/2020,"August 14, 2022",$459.63,9.0
+CUST1810,William Moore,36.0,Male,U.S.A,12-23-2018,24/08/2023,$379.98,6.0
+CUST1073,Susan Taylor,22.0,FEMALE,India,2020-09-19,2023-09-08,$727.91,5.0
+CUST1785,Richard Martinez,,female,,2021-11-06,"October 21, 2023",$334.13,10.0
+CUST1104,Sarah Martinez,23.0,female,Canada,"May 15, 2020",12-15-2022,$584.18,10.0
+CUST1845,Elizabeth Martin,23.0,female,United States,08/01/2021,"May 01, 2024",$559.11,4.0
+CUST1749,Karen Thomas,18.0,MALE,United States,05/10/2018,2022-08-28,$717.80,999.0
+CUST1968,Jennifer Thomas,60.0,FEMALE,,10-24-2020,05-19-2023,$267.96,10.0
+CUST1016,John Davis,74.0,MALE,INDIA,2022-01-20,11-19-2023,$171.36,4.0
+CUST1439,Jessica Williams,52.0,MALE,UK,"January 10, 2020",2022-10-24,$466.77,5.0
+CUST1091,Robert Martin,23.0,Female,india,11-26-2021,2022-11-23,$344.49,6.0
+CUST1088,Mary Anderson,54.0,MALE,uk,17/08/2022,08-04-2022,$76.62,1.0
+CUST1450,Patricia Garcia,50.0,male,uk,10-24-2021,2023-12-01,$155.15,3.0
+CUST1717,Charles Martinez,39.0,MALE,,04-15-2020,23/02/2024,$766.51,2.0
+CUST1102,Mary Hernandez,50.0,F,india,02/05/2021,2023-06-28,$272.22,6.0
+CUST1238,Thomas Williams,24.0,Female,Canada,08-10-2019,04/01/2023,$683.28,6.0
+CUST1761,Elizabeth Miller,50.0,,canada,17/02/2020,04-15-2023,-50.00,3.0
+CUST1246,Karen Thomas,41.0,FEMALE,usa,2018-11-08,06-27-2023,$305.37,3.0
+CUST1805,Elizabeth Lopez,39.0,female,canada,"August 10, 2020","July 25, 2024",,1.0
+CUST1157,Susan Rodriguez,48.0,male,uk,"April 24, 2020","October 07, 2024",$250.68,6.0
+CUST1479,Patricia Johnson,46.0,FEMALE,,2018-02-26,2024-01-17,$103.27,6.0
+CUST1645,Michael Thomas,40.0,FEMALE,United Kingdom,12/01/2021,05-09-2024,$723.11,4.0
+CUST1887,James Jones,24.0,MALE,usa,03/06/2019,2024-04-25,$17.62,
+CUST1863,James Johnson,31.0,male,UK,04-22-2018,27/07/2022,$671.85,500.0
+CUST1018,John Davis,28.0,FEMALE,india,2020-10-26,2024-09-10,$116.09,2.0
+CUST1744,Thomas Thomas,73.0,,United Kingdom,2021-01-10,05-24-2023,$495.93,3.0
+CUST1121,Karen Thomas,59.0,MALE,canada,16/10/2018,"November 24, 2024",$547.77,
+CUST1877,Thomas Wilson,46.0,Male,canada,19/07/2019,22/12/2023,$464.30,3.0
+CUST1743,Patricia Wilson,42.0,M,,2018-03-17,2022-04-15,-50.00,3.0
+CUST1274,Barbara Martin,25.0,MALE,United Kingdom,"December 04, 2020",16/08/2024,$521.33,4.0
+CUST1433,Sarah Smith,20.0,F,usa,"August 11, 2021",2023-08-02,$530.93,3.0
+CUST1942,William Rodriguez,60.0,MALE,,03-26-2022,11-22-2022,$446.79,8.0
+CUST1311,Patricia Davis,38.0,Male,U.S.A,"October 04, 2020","January 02, 2022",$132.44,4.0
+CUST1798,Linda Rodriguez,29.0,MALE,United States,03-02-2021,03/05/2024,$734.80,3.0
+CUST1876,Barbara Martinez,27.0,FEMALE,usa,11-15-2022,02/07/2024,$445.84,7.0
+CUST1546,David Garcia,74.0,female,Canada,2021-02-11,"October 15, 2024",$596.03,1.0
+CUST1181,Robert Wilson,46.0,MALE,usa,2018-03-25,12-13-2024,$258.46,5.0
+CUST1184,James Jackson,-5.0,MALE,USA,07-17-2018,"December 17, 2024",$327.80,9.0
+CUST1406,Jennifer Martinez,22.0,male,U.S.A,23/02/2020,28/03/2023,$505.55,9.0
+CUST1719,Robert Martin,36.0,female,uk,"February 14, 2018","March 19, 2024",$620.39,8.0
+CUST1606,Mary Jackson,200.0,F,India,03/09/2022,"September 13, 2023",$224.48,3.0
+CUST1692,David Davis,69.0,MALE,usa,"December 13, 2019",01-20-2022,$678.97,6.0
+CUST1520,Michael Jackson,41.0,Male,USA,10/04/2019,24/05/2022,$448.06,1.0
+CUST1380,Karen Brown,25.0,male,INDIA,22/07/2019,12-06-2022,$531.78,8.0
+CUST1410,Robert Anderson,29.0,MALE,india,11-11-2018,15/06/2022,$105.98,
+CUST1634,John Wilson,34.0,Male,INDIA,26/12/2018,01/09/2024,$239.62,7.0
+CUST1369,John Jones,44.0,FEMALE,,20/07/2022,"September 14, 2023",$188.34,1.0
+CUST1852,Thomas Wilson,64.0,MALE,United States,27/03/2022,2022-11-16,$84.39,7.0
+CUST1874,Joseph Wilson,52.0,MALE,United Kingdom,12/11/2019,"July 14, 2023",$360.68,6.0
+CUST1793,Karen Johnson,27.0,,UK,04-12-2018,10/05/2024,$250.75,5.0
+CUST1078,Linda Brown,53.0,female,usa,"October 08, 2020",2024-10-20,$529.69,1.0
+CUST1573,Elizabeth Garcia,53.0,F,uk,11-16-2021,07-03-2023,$739.22,9.0
+CUST1637,Richard Johnson,41.0,F,India,2019-01-07,07-09-2024,$76.04,7.0
+CUST1607,Charles Miller,18.0,,India,12-24-2022,04-10-2023,$145.18,500.0
+CUST1834,Richard Garcia,43.0,MALE,United States,02-08-2020,04/07/2022,$122.50,6.0
+CUST1068,Linda Thomas,,,uk,2022-04-21,08-23-2024,$102.17,500.0
+CUST1872,Mary Jackson,19.0,FEMALE,INDIA,"May 22, 2021","December 08, 2023",$282.67,8.0
+CUST1971,John Davis,48.0,male,,"January 14, 2020","March 14, 2023",$273.69,5.0
+CUST1416,Jennifer Moore,54.0,M,United States,"July 10, 2019",05-27-2022,$594.49,1.0
+CUST1782,James Jones,28.0,female,INDIA,2021-07-25,"September 24, 2023",$306.47,7.0
+CUST1561,Linda Thomas,66.0,male,USA,2018-05-25,2024-10-26,$422.64,
+CUST1067,Sarah Lopez,43.0,Male,UK,02-15-2022,12-22-2024,$659.71,2.0
+CUST1536,Richard Martin,51.0,female,INDIA,2021-08-15,"February 10, 2024",$675.69,7.0
+CUST1077,Sarah Johnson,53.0,,uk,"July 12, 2018",01-10-2024,$466.56,8.0
+CUST1105,Susan Rodriguez,68.0,Male,usa,17/06/2021,"March 28, 2022",-50.00,6.0
+CUST1078,Linda Brown,53.0,female,usa,"October 08, 2020",2024-10-20,$529.69,1.0
+CUST1820,Barbara Martinez,45.0,Female,United States,"November 21, 2018",01-09-2023,-50.00,3.0
+CUST1638,John Martinez,46.0,F,india,09/11/2019,02-14-2022,$244.55,7.0
+CUST1559,Thomas Wilson,64.0,F,U.S.A,06/06/2019,2022-08-06,$653.35,1.0
+CUST1800,Patricia Moore,56.0,FEMALE,UK,"January 19, 2022",15/12/2022,$511.60,1.0
+CUST1690,Jennifer Jones,64.0,female,India,05-26-2019,"February 27, 2023",$382.68,10.0
+CUST1998,William Johnson,24.0,Male,usa,01-16-2021,09-04-2023,$752.33,4.0
+CUST1986,Thomas Martinez,60.0,Male,India,04-18-2022,04-13-2022,$528.32,
+CUST1913,Barbara Anderson,200.0,Female,United States,2022-01-10,03-28-2022,$757.97,6.0
+CUST1735,Barbara Moore,150.0,,United States,07/09/2020,28/07/2024,$137.51,7.0
+CUST1818,Joseph Anderson,31.0,F,INDIA,2018-02-06,"April 04, 2022",$293.13,7.0
+CUST1490,Robert Thomas,26.0,,india,"December 07, 2018",24/01/2023,$301.77,10.0
+CUST1744,Thomas Thomas,73.0,,United Kingdom,2021-01-10,05-24-2023,$495.93,3.0
+CUST1885,Karen Smith,19.0,Female,United Kingdom,"August 13, 2019",12-22-2022,$275.15,7.0
+CUST1605,William Moore,75.0,female,India,"July 03, 2018",2023-09-17,$226.58,5.0
+CUST1363,Linda Martin,28.0,FEMALE,United Kingdom,"June 07, 2018",10-26-2023,$196.56,2.0
+CUST1069,Elizabeth Thomas,33.0,,U.S.A,"August 12, 2021",24/12/2024,$527.39,10.0
+CUST1548,Mary Davis,56.0,FEMALE,canada,03-09-2020,"January 17, 2024",$237.88,
+CUST1160,James Anderson,31.0,FEMALE,,"December 03, 2020",08-05-2024,$530.34,7.0
+CUST1011,Mary Davis,150.0,female,usa,"April 09, 2022","September 05, 2022",$383.65,2.0
+CUST1144,Barbara Taylor,47.0,male,,06-07-2021,02/07/2023,$22.81,10.0
+CUST1517,James Taylor,61.0,M,USA,2019-09-27,07/06/2023,$169.00,4.0
+CUST1427,Linda Wilson,38.0,male,India,"September 05, 2018",2023-12-10,$400.03,8.0
+CUST1639,Jessica Thomas,68.0,M,canada,"June 23, 2021",26/09/2022,$537.69,6.0
+CUST1176,Richard Miller,70.0,MALE,India,06-27-2020,19/09/2023,$393.42,1.0
+CUST1440,John Jackson,48.0,F,United States,02-21-2020,05-14-2024,$327.82,8.0
+CUST1521,Jennifer Rodriguez,19.0,M,United Kingdom,06-07-2018,04-12-2023,$753.52,10.0
+CUST1914,Joseph Gonzalez,28.0,FEMALE,India,10/10/2022,2022-10-04,$499.23,5.0
+CUST1990,Richard Miller,34.0,Male,INDIA,06/02/2018,17/03/2023,$740.52,1.0
+CUST1688,Richard Gonzalez,24.0,FEMALE,United Kingdom,03-01-2021,"February 19, 2023",,10.0
+CUST1231,John Jones,58.0,F,United Kingdom,2021-08-13,09-07-2022,$714.69,9.0
+CUST1210,David Garcia,28.0,male,india,"June 20, 2018",14/01/2024,$353.02,999.0
+CUST1640,David Smith,47.0,M,India,"February 26, 2020",2023-09-24,$755.23,8.0
+CUST1143,Michael Miller,25.0,FEMALE,United States,"December 07, 2022",09-11-2022,$431.58,5.0
+CUST1753,Joseph Lopez,18.0,Female,uk,2018-06-09,05-02-2024,$324.65,5.0
+CUST1519,Joseph Martin,48.0,female,,13/04/2021,2022-06-01,$448.21,8.0
+CUST1348,Elizabeth Thomas,62.0,Female,uk,17/07/2022,2024-04-20,$586.49,2.0
+CUST1298,Barbara Hernandez,49.0,FEMALE,usa,"October 10, 2021",28/03/2024,$743.57,10.0
+CUST1766,Elizabeth Martinez,33.0,MALE,United Kingdom,08/12/2018,09-28-2024,,2.0
+CUST1428,Karen Martinez,71.0,FEMALE,United States,"July 10, 2022","February 27, 2022",$300.28,
+CUST1612,Richard Martin,27.0,male,United Kingdom,"August 21, 2019",17/12/2022,$648.31,7.0
+CUST1976,Thomas Brown,32.0,Female,USA,22/06/2021,"August 26, 2024",$412.01,7.0
+CUST1985,William Smith,20.0,MALE,India,"July 01, 2019",02-26-2022,$720.60,1.0
+CUST1008,Thomas Garcia,24.0,Female,Canada,07/10/2022,2023-03-18,$396.00,6.0
+CUST1156,James Martinez,67.0,male,canada,19/04/2022,06/07/2024,$222.04,3.0
+CUST1539,Joseph Smith,62.0,FEMALE,United Kingdom,13/12/2020,01-01-2023,$734.54,8.0
+CUST1506,Joseph Lopez,46.0,Male,United States,05-22-2018,02-27-2022,$184.71,6.0
+CUST1436,David Gonzalez,40.0,female,United Kingdom,22/01/2020,04-21-2022,$729.21,5.0
+CUST1266,Jessica Hernandez,60.0,MALE,usa,03/10/2020,08-15-2023,$251.48,10.0
+CUST1461,Jessica Brown,73.0,M,usa,02-07-2020,03-24-2022,$533.88,1.0
+CUST1576,Charles Wilson,58.0,F,United States,"February 08, 2018",23/05/2023,$306.54,2.0
+CUST1338,Jessica Jones,32.0,Male,United Kingdom,14/05/2018,07/11/2024,"$8,708.41",10.0
+CUST1255,Elizabeth Anderson,61.0,male,U.S.A,2019-12-17,01-14-2023,$112.75,5.0
+CUST1947,William Martinez,32.0,MALE,INDIA,10-25-2022,27/06/2024,$447.43,4.0
+CUST1892,Elizabeth Garcia,150.0,FEMALE,uk,"October 25, 2018","November 25, 2022",,2.0
+CUST1665,Michael Williams,49.0,Male,United States,"November 07, 2018",2023-04-16,$653.06,9.0
+CUST1560,Jennifer Miller,75.0,F,India,28/02/2022,"May 03, 2022",$60.77,
+CUST1208,David Anderson,,MALE,United States,2018-06-09,"January 02, 2024",$341.53,7.0
+CUST1287,Joseph Gonzalez,34.0,M,United Kingdom,2022-02-18,2024-05-11,$765.80,10.0
+CUST1001,Michael Moore,46.0,Female,,"March 23, 2018",05/05/2023,$275.91,2.0
+CUST1341,Susan Martinez,21.0,,U.S.A,2021-11-15,04/09/2024,$750.90,3.0
+CUST1269,James Taylor,70.0,F,,04-02-2022,16/09/2024,$186.41,5.0
+CUST1265,Jennifer Garcia,71.0,Female,United States,2018-03-22,2024-08-21,$63.22,10.0
+CUST1446,Linda Wilson,24.0,M,United States,08-14-2020,01-16-2024,$99.24,8.0
+CUST1862,Thomas Taylor,50.0,female,Canada,"April 04, 2018",04-23-2022,$170.85,10.0
+CUST1095,Karen Jones,21.0,FEMALE,uk,2022-02-23,25/02/2023,$725.19,7.0
+CUST1600,Michael Jones,57.0,MALE,usa,07-14-2018,08/11/2024,$388.56,1.0
+CUST1042,Sarah Smith,30.0,male,United States,18/08/2021,"August 21, 2024",$23.62,7.0
+CUST1843,Richard Miller,63.0,FEMALE,uk,12/08/2020,2022-06-01,$255.32,9.0
+CUST1398,Joseph Wilson,39.0,MALE,UK,26/03/2022,28/09/2024,$687.01,4.0
+CUST1875,David Hernandez,26.0,,United States,23/04/2019,04-28-2024,$443.08,7.0
+CUST1628,Charles Thomas,,female,usa,01-12-2020,09-07-2023,$583.29,2.0
+CUST1045,Jennifer Martinez,,,U.S.A,01-02-2020,"March 21, 2024",$19.69,8.0
+CUST1161,John Anderson,48.0,F,india,2022-12-14,2023-12-26,$206.10,3.0
+CUST1727,William Brown,69.0,male,canada,12-03-2019,09-11-2022,$591.06,2.0
+CUST1629,David Wilson,50.0,male,india,"January 19, 2019",2023-10-28,$129.71,2.0
+CUST1288,William Anderson,54.0,FEMALE,,"June 25, 2019",2024-08-19,$213.68,4.0
+CUST1589,Elizabeth Williams,44.0,female,usa,24/02/2018,2022-03-19,$235.82,1.0
+CUST1938,James Miller,41.0,F,India,24/04/2022,"October 26, 2023",$606.79,10.0
+CUST1452,Joseph Thomas,26.0,Female,U.S.A,06-26-2022,02-14-2022,$702.35,10.0
+CUST1575,James Lopez,54.0,male,Canada,14/07/2019,"February 12, 2022",$51.45,6.0
+CUST1850,John Lopez,-5.0,Female,canada,"December 20, 2018",25/12/2023,$180.01,9.0
+CUST1315,James Martin,67.0,MALE,uk,"November 18, 2018","September 22, 2022",$131.76,7.0
+CUST1935,Sarah Johnson,27.0,Female,U.S.A,2021-01-12,01-04-2024,$17.00,3.0
+CUST1230,David Garcia,49.0,female,Canada,2019-06-21,09/08/2022,$143.20,8.0
+CUST1809,Jessica Jones,22.0,female,,28/03/2021,19/05/2024,$356.23,9.0
+CUST1698,David Johnson,53.0,female,,2018-04-16,2024-10-23,$65.90,10.0
+CUST1868,John Williams,57.0,female,India,2019-08-20,25/09/2024,$582.68,500.0
+CUST1711,Charles Williams,57.0,,uk,08-06-2018,"May 28, 2023",$507.97,10.0
+CUST1076,Richard Wilson,38.0,F,uk,"June 05, 2020",2022-02-27,$86.29,3.0
+CUST1633,Joseph Jones,54.0,FEMALE,USA,"May 13, 2020","November 05, 2024",$677.42,6.0
+CUST1433,Sarah Smith,20.0,F,usa,"August 11, 2021",2023-08-02,$530.93,3.0
+CUST1247,Jessica Jones,65.0,F,usa,07/10/2020,"July 07, 2022",$160.56,7.0
+CUST1819,Michael Miller,69.0,,uk,2021-05-17,"January 01, 2023",$326.24,6.0
+CUST1824,Jessica Anderson,72.0,,India,2019-10-26,08-16-2023,$528.54,10.0
+CUST1476,Karen Anderson,36.0,F,United Kingdom,26/08/2020,2024-04-10,$111.99,10.0
+CUST1670,Charles Rodriguez,52.0,male,UK,"October 23, 2019",04/07/2023,$704.83,4.0
+CUST1085,Elizabeth Hernandez,67.0,M,usa,04/11/2022,24/06/2023,$125.69,10.0
+CUST1469,William Jackson,50.0,Male,usa,26/03/2021,"January 03, 2023",$245.14,8.0
+CUST1225,Jessica Williams,35.0,female,UK,11-23-2020,17/03/2022,$646.29,10.0
+CUST1774,David Martinez,19.0,,UK,"May 12, 2019",08-11-2022,$480.67,1.0
+CUST1331,William Johnson,18.0,male,United Kingdom,11-28-2020,"January 10, 2022",$310.75,2.0
+CUST1233,Joseph Taylor,39.0,F,Canada,06-16-2019,"March 26, 2022",,3.0
+CUST1588,Mary Lopez,33.0,F,canada,03-15-2021,09-10-2023,$421.27,4.0
+CUST1475,Jessica Brown,59.0,female,India,01-06-2021,04-16-2024,$411.03,6.0
+CUST1936,David Davis,69.0,MALE,United States,16/08/2021,2022-03-13,$110.29,2.0
+CUST1915,James Martinez,64.0,M,usa,07/06/2018,2023-12-12,$526.36,1.0
+CUST1599,Susan Miller,68.0,male,canada,06/10/2022,21/11/2024,$114.51,
+CUST1421,Jessica Wilson,28.0,male,United States,08/09/2019,2024-10-23,$733.66,3.0
+CUST1687,Jennifer Jones,60.0,MALE,U.S.A,23/12/2022,08-10-2023,$767.68,5.0
+CUST1182,John Davis,56.0,Female,,10/11/2018,17/10/2024,$243.48,500.0
+CUST1617,Jennifer Wilson,60.0,Female,INDIA,06-04-2020,11-12-2023,$571.93,1.0
+CUST1332,David Thomas,52.0,male,U.S.A,2019-09-15,04-17-2022,$320.79,6.0
+CUST1438,David Gonzalez,38.0,male,,23/02/2021,08-17-2023,$246.62,4.0
+CUST1049,John Davis,68.0,MALE,United Kingdom,08/09/2018,2023-03-03,$253.01,10.0
+CUST1922,Karen Hernandez,71.0,M,,27/03/2022,"July 03, 2024",$792.50,9.0
+CUST1005,John Miller,54.0,female,United States,"July 21, 2021",05/05/2022,$435.79,7.0
+CUST1529,James Thomas,66.0,M,United Kingdom,24/04/2019,"April 17, 2023",$374.51,6.0
+CUST1234,Michael Smith,28.0,male,uk,07-21-2018,2024-10-02,$526.32,
+CUST1486,Sarah Jackson,71.0,Female,canada,2021-09-04,05-21-2023,$607.68,8.0
+CUST1951,Joseph Martin,27.0,male,INDIA,"March 26, 2021",04-11-2022,$206.52,4.0
+CUST1497,James Taylor,34.0,male,usa,09-06-2018,2022-03-09,$762.21,1.0
+CUST1884,David Garcia,200.0,Female,UK,2021-07-11,"December 25, 2023",$273.01,
+CUST1945,William Taylor,30.0,Female,USA,2021-11-16,07-13-2023,$153.07,1.0
+CUST1106,Barbara Gonzalez,20.0,M,Canada,"June 12, 2021",10-05-2022,$523.15,2.0
+CUST1443,Linda Gonzalez,27.0,MALE,USA,"May 15, 2019",2024-07-14,$225.44,
+CUST1488,Thomas Jackson,67.0,female,India,"March 23, 2018",2023-02-03,$112.75,2.0
+CUST1646,James Wilson,,Male,U.S.A,09-27-2020,"March 19, 2023",$779.06,7.0
+CUST1012,Patricia Wilson,44.0,FEMALE,canada,2018-11-21,07-24-2022,$96.32,9.0
+CUST1738,Karen Jones,55.0,F,United States,05-26-2022,2023-09-24,$372.54,10.0
+CUST1726,Barbara Miller,54.0,F,canada,"September 05, 2021",2023-02-23,$351.49,3.0
+CUST1190,William Williams,25.0,,Canada,2018-03-08,02-15-2023,$255.45,8.0
+CUST1996,John Jones,56.0,male,uk,02-09-2018,06/02/2023,$72.28,999.0
+CUST1832,Linda Jones,57.0,F,United States,01-13-2020,"September 14, 2023",$117.53,1.0
+CUST1282,Jennifer Lopez,48.0,Female,UK,"June 25, 2022",2024-03-28,$362.81,3.0
+CUST1029,Joseph Wilson,54.0,MALE,canada,13/08/2021,2022-11-23,$689.75,7.0
+CUST1169,Sarah Garcia,26.0,M,uk,10-02-2021,05/08/2022,$771.42,8.0
+CUST1180,David Lopez,26.0,F,,22/11/2019,2022-09-19,$139.65,4.0
+CUST1100,Thomas Taylor,42.0,FEMALE,USA,2021-06-09,12/02/2023,$506.32,6.0
+CUST1197,Richard Anderson,53.0,MALE,usa,26/02/2021,02/01/2022,$660.70,2.0
+CUST1495,Sarah Brown,23.0,MALE,INDIA,2022-10-25,"September 07, 2024",$24.74,9.0
+CUST1721,Susan Lopez,62.0,,United States,02-11-2020,2024-10-20,$45.74,6.0
+CUST1647,Mary Jackson,58.0,F,canada,11/07/2019,04/04/2023,$508.84,5.0
+CUST1044,Patricia Moore,62.0,M,United States,12-16-2019,10-25-2024,$667.78,6.0
+CUST1983,William Taylor,51.0,MALE,United Kingdom,08-24-2018,08-02-2024,$331.80,2.0
+CUST1710,Elizabeth Jackson,71.0,Female,U.S.A,"August 01, 2021",08-02-2022,$677.02,1.0
+CUST1373,Charles Rodriguez,0.0,M,INDIA,2018-11-10,03/08/2023,$682.64,3.0
+CUST1678,John Martinez,,Male,United States,2020-10-04,"May 01, 2023",$668.95,500.0
+CUST1981,James Garcia,44.0,male,India,02/03/2020,"September 20, 2022",$726.77,7.0
+CUST1648,Sarah Garcia,31.0,male,usa,01/07/2018,2022-10-23,$29.98,8.0
+CUST1797,Thomas Davis,41.0,Male,United Kingdom,2018-06-17,2023-09-18,$54.22,4.0
+CUST1847,Richard Rodriguez,41.0,Female,United Kingdom,06-08-2020,03/06/2024,$663.68,9.0
+CUST1460,Mary Miller,32.0,M,USA,"May 06, 2021",2023-02-16,$791.17,8.0
+CUST1908,Michael Anderson,66.0,Female,United States,2019-01-21,27/11/2022,$43.32,3.0
+CUST1413,William Miller,,,India,13/09/2018,2023-06-20,$295.24,7.0
+CUST1131,Linda Smith,33.0,FEMALE,,2020-06-10,12/11/2023,"$5,472.9",7.0
+CUST1039,Mary Lopez,60.0,female,usa,2022-11-11,"August 04, 2023",$512.11,3.0
+CUST1434,Jessica Wilson,63.0,F,India,"October 22, 2018","September 22, 2024",$684.94,7.0
+CUST1215,Mary Taylor,51.0,M,usa,06/03/2021,"March 02, 2022",$549.67,3.0
+CUST1555,Barbara Taylor,58.0,female,canada,"November 13, 2018","April 08, 2024",-50.00,1.0
+CUST1566,Mary Jones,23.0,Female,Canada,"August 06, 2022",22/08/2022,$144.64,2.0
+CUST1762,Jessica Jones,38.0,female,INDIA,2021-11-19,12-04-2023,$16.24,6.0
+CUST1474,Charles Martin,36.0,Male,India,"August 17, 2021",2022-12-02,$259.52,7.0
+CUST1456,Joseph Williams,,M,uk,"November 07, 2021",07-24-2024,$450.03,500.0
+CUST1811,Michael Rodriguez,65.0,Male,U.S.A,"November 14, 2018",2023-08-26,$57.63,6.0
+CUST1260,Sarah Smith,31.0,MALE,Canada,"February 07, 2021",24/02/2024,,1.0
+CUST1816,Robert Miller,31.0,Female,U.S.A,2018-01-18,2022-09-12,$259.12,4.0
+CUST1035,Charles Jackson,23.0,F,U.S.A,03-02-2021,"June 07, 2023",$611.37,7.0
+CUST1827,Richard Johnson,29.0,Male,U.S.A,"April 06, 2018","January 19, 2023",$281.68,10.0
+CUST1911,Barbara Taylor,71.0,MALE,,11/05/2022,2023-05-13,$366.80,9.0
+CUST1309,Jennifer Miller,34.0,F,USA,"December 08, 2018",2023-04-24,$590.90,4.0
+CUST1276,Elizabeth Williams,56.0,FEMALE,India,"April 27, 2019",26/03/2024,$413.54,6.0
+CUST1636,Richard Hernandez,-5.0,FEMALE,United States,"February 09, 2021","September 05, 2022",$178.64,10.0
+CUST1654,Joseph Thomas,43.0,MALE,UK,04-22-2019,02-19-2023,$172.61,7.0
+CUST1622,Richard Smith,45.0,female,USA,2018-11-19,28/10/2023,-50.00,2.0
+CUST1835,James Brown,51.0,male,,"August 08, 2022","February 18, 2023",$705.38,6.0
+CUST1844,Elizabeth Moore,43.0,male,United States,"February 23, 2018",03-23-2023,$323.44,2.0
+CUST1393,Barbara Wilson,,MALE,United States,09-04-2018,"September 08, 2024",$530.87,4.0
+CUST1992,Jessica Moore,42.0,female,Canada,2020-04-02,04-01-2023,,6.0
+CUST1107,James Garcia,42.0,,usa,"May 23, 2020","October 10, 2022",$117.23,3.0
+CUST1999,John Hernandez,59.0,male,Canada,07/08/2018,27/12/2022,$14.18,5.0
+CUST1524,Thomas Lopez,47.0,M,uk,"September 23, 2020",08-16-2024,$514.10,1.0
+CUST1784,David Lopez,60.0,female,india,13/09/2022,"August 25, 2023",$740.39,3.0
+CUST1047,Linda Brown,44.0,MALE,,"July 15, 2022",10-14-2023,$57.58,2.0
+CUST1954,John Garcia,62.0,,USA,02-17-2020,10/03/2023,$230.03,4.0
+CUST1203,Charles Smith,40.0,M,INDIA,08-18-2019,2022-08-02,"$7,406.65",
+CUST1979,Charles Martinez,31.0,FEMALE,Canada,"June 06, 2018",2022-06-03,-50.00,5.0
+CUST1631,Linda Miller,56.0,male,U.S.A,2022-11-16,03-25-2022,$775.47,2.0
+CUST1021,Barbara Jackson,45.0,M,USA,2020-06-26,22/04/2023,$289.41,7.0
+CUST1402,Jennifer Lopez,63.0,Male,Canada,07-23-2018,"January 10, 2024",$561.46,10.0
+CUST1946,Mary Williams,53.0,,UK,"February 24, 2019",2022-01-22,,10.0
+CUST1083,Robert Gonzalez,32.0,,india,2020-02-13,2023-01-15,$464.85,7.0
+CUST1130,James Hernandez,54.0,MALE,U.S.A,"November 13, 2022","June 03, 2024",$155.98,6.0
+CUST1415,Susan Jones,56.0,male,U.S.A,05-16-2019,"October 25, 2022",$333.47,7.0
+CUST1895,Robert Hernandez,73.0,M,United Kingdom,14/01/2020,06/10/2022,$319.12,6.0
+CUST1841,William Lopez,40.0,female,United States,2020-08-26,08-23-2023,$136.87,9.0
+CUST1741,Sarah Garcia,49.0,MALE,usa,"July 20, 2019",27/12/2024,"$6,973.67",6.0
+CUST1697,Sarah Jackson,51.0,,UK,2021-10-02,2024-08-09,-50.00,4.0
+CUST1286,William Gonzalez,43.0,F,INDIA,2019-09-01,09-10-2022,$654.26,4.0
+CUST1123,Thomas Miller,60.0,FEMALE,india,"June 06, 2021",06-18-2024,$695.45,5.0
+CUST1033,Mary Miller,42.0,Male,,2022-07-16,"May 25, 2023",$763.21,9.0
+CUST1787,James Martin,59.0,F,india,28/04/2022,24/06/2023,$750.34,6.0
+CUST1516,Linda Jones,21.0,M,UK,07-17-2022,18/10/2023,$253.85,6.0
+CUST1923,Patricia Jackson,,,Canada,12-08-2019,02-11-2023,$322.02,7.0
+CUST1019,Sarah Jones,56.0,MALE,canada,04-22-2020,2024-08-09,$344.62,1.0
+CUST1980,Richard Garcia,47.0,F,,08-05-2020,12-14-2024,$603.70,3.0
+CUST1219,Elizabeth Rodriguez,72.0,male,United States,"May 24, 2019","May 24, 2023",$80.54,7.0
+CUST1891,Jennifer Gonzalez,55.0,Female,INDIA,09-21-2021,07-09-2022,$429.14,5.0
+CUST1579,Jennifer Gonzalez,19.0,F,india,2022-09-16,2024-10-18,$173.90,2.0
+CUST1481,Jessica Hernandez,28.0,male,UK,"December 25, 2020",22/11/2023,$605.27,4.0
+CUST1931,Patricia Jones,22.0,MALE,India,"April 01, 2021","November 06, 2024",-50.00,6.0
+CUST1356,Thomas Martinez,27.0,male,india,2019-04-24,2023-07-23,,10.0
+CUST1661,John Moore,49.0,Male,United Kingdom,"December 15, 2020",02-27-2024,$91.17,1.0
+CUST1224,Barbara Anderson,47.0,Female,Canada,2022-10-13,09-22-2022,$479.08,2.0
+CUST1759,Michael Jones,42.0,Female,U.S.A,03-19-2020,27/04/2023,$167.39,5.0
+CUST1092,Elizabeth Garcia,39.0,FEMALE,United States,2019-03-05,2023-02-17,$702.35,10.0
+CUST1151,Mary Williams,35.0,,INDIA,03-28-2018,19/04/2022,$573.04,2.0
+CUST1589,Elizabeth Williams,44.0,female,usa,24/02/2018,2022-03-19,$235.82,1.0
+CUST1317,Thomas Martin,34.0,Male,uk,2019-10-23,"April 21, 2022",$667.34,1.0
+CUST1448,Richard Martinez,62.0,female,,28/09/2018,"July 01, 2023",$735.16,4.0
+CUST1803,Jennifer Miller,66.0,MALE,United States,09-10-2020,08-04-2024,$176.13,6.0
+CUST1745,Robert Martinez,31.0,female,india,"May 16, 2022",24/06/2022,$574.91,6.0
+CUST1522,Susan Williams,74.0,M,,"April 18, 2019","June 11, 2024",$203.19,500.0
+CUST1279,Susan Lopez,62.0,,United Kingdom,"August 26, 2019",2023-10-26,$211.07,2.0
+CUST1583,William Jones,45.0,male,india,13/05/2020,08-03-2023,$752.76,4.0
+CUST1764,Karen Hernandez,43.0,Female,USA,"September 04, 2019","May 19, 2023",$139.58,5.0
+CUST1604,Michael Anderson,22.0,,INDIA,"May 24, 2020",24/09/2022,-50.00,9.0
+CUST1647,Mary Jackson,58.0,F,canada,11/07/2019,04/04/2023,$508.84,5.0
+CUST1349,Jessica Martin,63.0,Female,United Kingdom,06-09-2022,"October 19, 2022",$509.17,3.0
+CUST1927,Mary Thomas,49.0,female,uk,"May 23, 2018",2023-09-25,$473.83,8.0
+CUST1374,Karen Rodriguez,34.0,Male,canada,06/10/2018,12/08/2024,$563.61,9.0
+CUST1400,James Wilson,20.0,FEMALE,canada,"January 14, 2022",2023-12-27,$200.00,1.0
+CUST1704,Barbara Moore,59.0,MALE,india,2020-06-23,"June 14, 2022",$170.81,9.0
+CUST1257,Thomas Williams,28.0,F,india,07-03-2022,04-22-2022,$241.92,10.0
+CUST1944,Joseph Moore,34.0,male,UK,"July 27, 2018",02-07-2022,$369.26,10.0
+CUST1851,Elizabeth Hernandez,69.0,,United Kingdom,09-22-2019,10-02-2022,$621.95,2.0
+CUST1072,James Rodriguez,27.0,M,india,2020-03-04,12/01/2022,$22.47,3.0
+CUST1195,Patricia Jones,46.0,FEMALE,uk,02-18-2021,"August 10, 2022",$104.73,5.0
+CUST1483,Susan Johnson,20.0,M,INDIA,11-23-2018,07-22-2023,$257.82,5.0
+CUST1855,James Hernandez,19.0,female,usa,"April 21, 2019",09-07-2022,$549.71,6.0
+CUST1137,Richard Taylor,32.0,Male,,"May 15, 2018",27/07/2024,$283.47,2.0
+CUST1494,Susan Gonzalez,43.0,female,india,11-15-2018,28/02/2024,$461.88,5.0
+CUST1772,Thomas Lopez,63.0,female,india,26/02/2020,"September 25, 2023",$73.21,
+CUST1550,John Miller,200.0,MALE,U.S.A,19/03/2018,"September 03, 2022",$256.06,4.0
+CUST1462,Thomas Jackson,22.0,MALE,,11-04-2021,2022-05-22,$476.37,6.0
+CUST1201,Jessica Lopez,50.0,female,United Kingdom,03-01-2020,04-01-2024,"$8,966.13",10.0
+CUST1312,Jennifer Thomas,57.0,female,,12/01/2018,2024-09-26,$193.81,6.0
+CUST1290,Jessica Hernandez,75.0,Female,U.S.A,24/08/2019,12-08-2022,$170.19,10.0
+CUST1960,Jessica Jones,31.0,male,INDIA,"May 04, 2020",07-10-2023,,1.0
+CUST1189,James Johnson,18.0,MALE,USA,13/06/2021,"January 18, 2022",$206.13,6.0
+CUST1763,David Brown,40.0,Female,U.S.A,2021-09-06,"October 15, 2023",$384.12,6.0
+CUST1112,Jennifer Jackson,27.0,M,Canada,12-20-2022,2024-01-27,$759.35,5.0
+CUST1949,Jennifer Davis,18.0,MALE,Canada,"July 19, 2020",2023-04-08,$332.74,3.0
+CUST1183,Jessica Gonzalez,49.0,male,india,11/06/2018,10-14-2023,$146.49,2.0
+CUST1250,Robert Jones,62.0,,UK,23/06/2022,04-20-2022,$737.74,3.0
+CUST1823,David Smith,20.0,M,United Kingdom,13/09/2018,02-01-2022,$82.78,2.0
+CUST1940,Elizabeth Moore,37.0,FEMALE,india,25/07/2021,"June 03, 2023",$430.86,2.0
+CUST1391,Richard Garcia,,FEMALE,usa,2018-01-06,11-19-2024,$647.86,3.0
+CUST1904,Joseph Gonzalez,56.0,FEMALE,,"February 09, 2020","April 23, 2023",$473.32,1.0
+CUST1730,Karen Miller,20.0,F,canada,13/10/2020,16/06/2024,$674.15,8.0
+CUST1554,Jessica Gonzalez,43.0,female,United Kingdom,2021-05-21,"January 04, 2023",$138.27,5.0
+CUST1366,Michael Hernandez,68.0,Female,United Kingdom,2020-02-19,13/09/2024,$59.30,1.0
+CUST1345,Sarah Smith,49.0,MALE,United States,"November 16, 2022",2023-08-03,$442.40,9.0
+CUST1535,Elizabeth Wilson,60.0,FEMALE,U.S.A,10/10/2022,"December 22, 2024",$15.88,2.0
+CUST1919,Mary Jackson,45.0,,canada,2021-04-23,06-03-2023,$383.26,6.0
+CUST1211,Michael Miller,53.0,,UK,2020-05-08,"July 19, 2022",$295.05,5.0
+CUST1502,William Martin,61.0,F,uk,10-27-2019,2022-03-24,$322.29,3.0
+CUST1537,Karen Garcia,29.0,F,India,2021-11-06,02/12/2023,$134.77,9.0
+CUST1175,Richard Taylor,62.0,female,India,2021-06-19,"February 24, 2024",$560.86,9.0
